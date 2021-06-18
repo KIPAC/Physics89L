@@ -31,7 +31,7 @@ Note that this will download the current version of the repository, so you will 
 ### Option 2: using github desktop app (a bit longer to setup, but easy to update each week)
 
 1. Install the github desktop app from here: https://desktop.github.com/
-2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This give you a text box and a pull-down menu. 
+2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
 3. Type in 'KIPAC/Physics67' into the test box and select "Clone Repository..." from the pull down menu
 4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics67"
 5. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
@@ -39,7 +39,7 @@ Note that this will download the current version of the repository, so you will 
 
 ### Options 3: using conda and git from a terminal to set up your work enviroment
 
-If you know how to do this, or have a friend who know how to do this, then please go ahead.  If you are interested to learn, we can arrange a tutorial during one of the office hours or point you at some instructions if you are feeling adventurous.
+If you know how to do this, or have a friend who knows how to do this, then please go ahead.  If you are interested to learn, we can arrange a tutorial during one of the office hours or point you at some instructions if you are feeling adventurous.
 
 
 ## Backup plan, Running these notebooks using jupyter on the web. 
@@ -47,7 +47,7 @@ If you know how to do this, or have a friend who know how to do this, then pleas
 You can also use the service "binder" to run the notebooks on a remote server on the web.  This works, but has the disadvantage that it can be difficult to the work you do in the notebook, so you will probably end up copying things to 
 
 1. Go to https://mybinder.org/
-2. Type "KIPAC/Physics67" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud an connect you to it. 
+2. Type "KIPAC/Physics67" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
 
 ### Opening a Notebooks in your brower
 
