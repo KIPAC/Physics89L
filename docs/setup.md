@@ -11,13 +11,13 @@ To run these notebooks you are going to install 3 things on your computer.  Depe
 
 You will need:
 
-	1. A python installation and python package manager, typically this will be either:
-	   1. miniconda (recommened)
-		  1. You wil have to use the terminal window to install miniconda, it isn't complicated, but that might be new to some of you.
-		  2. You will have to install a few extra data analysis packages by hand, again, it isn't complicated.
-	   2. anaconda
-		  1. You won't need the terminal window, and the installation will install all the packages you need (and a whole lot more)	
-	2. The notebooks and data for this course
+1. A python installation and python package manager, typically this will be either:
+   1. miniconda (recommened)
+	  1. You wil have to use the terminal window to install miniconda, it isn't complicated, but that might be new to some of you.
+	  2. You will have to install a few extra data analysis packages by hand, again, it isn't complicated.
+  2. anaconda
+	 1. You won't need the terminal window, and the installation will install all the packages you need (and a whole lot more)	
+2. The notebooks and data for this course
 	   
 
 ### Option 1:  Installing 'miniconda'
