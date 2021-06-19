@@ -147,7 +147,7 @@ To test your setup, navigate to "nb" folder of this repository and run the "Test
 
 If you click on the "Run" button twice, and you have everything set up correctly you should see a plot that looks like this:
 
-![It Works](./figures/it_works.png)
+![It Works](../nb/figures/it_works.png)
 
 
 <!--  LocalWords:  Jupyter IPython miniconda github-desktop numpy
