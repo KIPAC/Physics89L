@@ -33,15 +33,15 @@ Start by looking at the course design to understand how this course works, and G
 The course content can be browsed here in static HTML format. This is sufficient for the notes, but to do the tutorials you will need to download them in Jupyter notebook format from the GitHub repository.
 
 * Getting Started
-  * (Overview)[overview.md]
-  * (Software setup)[setup.md]
-  * (Social rules and expectations)[social.md]
+  * [Overview](overview.md)
+  * [Software setup](setup.md)
+  * [Social rules and expectationa](social.md)
 * Notes for Week 1: 
   * Topics: Measurements, Plotting, Simple Statistics (mean, median, variance, ...)
-  * (Background and reference)[Week1.md]
-  * (Notebook 1: "Look at this figure")[../nb/01_01_Look%20At%20This%20Figure.ipynb]
-  * (Notebook 2: "Dice rolls and histograms")[../nb/01_02_Dice_Rolls_and_Histograms.ipynb]
-  * (Notebook 3: "Hubble constant measurements")[../nb/01_03_Hubble_Measurements.ipynb]
+  * [Background and reference](Week1.md)
+  * [Notebook 1: "Look at this figure"](../nb/01_01_Look%20At%20This%20Figure.ipynb)
+  * [Notebook 2: "Dice rolls and histograms"](../nb/01_02_Dice_Rolls_and_Histograms.ipynb)
+  * [Notebook 3: "Hubble constant measurements"](../nb/01_03_Hubble_Measurements.ipynb)
 * Notes for Week 2:
   * Topics: Measurement uncertainties, weighted means, error propagation 
 * Notes for Week 3:
