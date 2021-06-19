@@ -9,7 +9,7 @@ Getting set up to run these notebooks on your computer has been described as any
 
 ## Running these notebooks on your computer
 
-Quick option:  [Run on the cloud](#Backup plan)
+Quick option:  [Run on the cloud](#Backup-plan)
 
 To run these notebooks you are going to install some software on your computer.  Depending on the type of computer you have, and how tech-savvy you are, the details are going to differ a bit, but there are many very good online installation guides.
 
