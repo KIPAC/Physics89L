@@ -7,7 +7,9 @@ Each week you will be working through 1-3 notebooks during the lab time, and the
 
 ## Running these notebooks on your computer
 
-To run these notebooks you are going to install 3 things on your computer.  Depending on the type of computer you have, the details are going to differ a bit, so we are just going to refer you to online installation guides.
+To run these notebooks you are going to install some software on your computer.  Depending on the type of computer you have, and how tech-savy your are, the details are going to differ a bit, so we are just going to refer you to online installation guides.
+
+Don't worry if you get stuck or have problems installing the software.  We will have some time during the first week to help you get set up.  You won't really need the software until the second week, and you can actually run the notebooks on the cloud (though we strongly recommend you run them on your own computer).
 
 You will need:
 
@@ -91,6 +93,8 @@ This will fetch all the new changes form the repository and merge them into your
 
 ### Option 2: using github desktop app (a bit longer to setup, but easy to update each week)
 
+The github desktop app is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use the github desktop app.
+
 1. Install the github desktop app from here: https://desktop.github.com/
 2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
 3. Type in 'KIPAC/Physics67' into the test box and select "Clone Repository..." from the pull down menu
@@ -101,7 +105,7 @@ This will fetch all the new changes form the repository and merge them into your
 
 ### Option 3: by downloading it (easy, but you will have to manually update each week)
 
-If you don't want to use git, you can always just download a snapshot of the repository.
+If you don't want to use git, you can always just download a snapshot of the repository each week before class.
 
 Go to https://github.com/KIPAC/Physics67 and click on the green "Code" button in and select "Download ZIP" from the drop-down menu.
 
@@ -114,9 +118,9 @@ If you installed jupyter using miniconda you can start jupyter from a terminal b
 
 `jupyter-notebook`
 
-If you installed anaconda, then you can start jupyter from the App graphical interface.
+If you installed anaconda, then you can start jupyter from the anaconda App graphical interface.  (Applications -> Anaconda Navigator, then click on the "Launch" button in the "Jupyter Notebook" box.
 
-One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (Either the folder you ran the `jupyter-notebook` command from, or a folder that you can set in the anaconda preferences.
+One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (Either the folder you ran the `jupyter-notebook` command from, or a folder that you can set in the anaconda preferences).  From there you should navigate to the folder that you have installed the course in and click on the notebook you want to run.
 
 
 ## Backup plan, Running these notebooks using jupyter on the web. 
@@ -127,5 +131,5 @@ a file.
 1. Go to https://mybinder.org/
 2. Type "KIPAC/Physics67" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
 
-It is probably fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.
+It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports.
 
