@@ -64,4 +64,8 @@ The course content can be browsed here in static HTML format. This is sufficient
 
 ## Contact and Legal
 
-All materials Copyright 2021 Eric Charles, Ryan Lineham and Benjamin Navid Safvati and distributed for copying and extension under the GPLv2 License, unless otherwise noted. If you have any feedback for us, please write us an issue.
+All materials Copyright 2021 Eric Charles, Ryan Lineham and Benjamin
+Navid Safvati and distributed for copying and extension under the
+GPLv3 License, unless otherwise noted.
+
+If you have any feedback for us, please write us an issue.
