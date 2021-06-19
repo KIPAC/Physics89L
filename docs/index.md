@@ -41,7 +41,7 @@ The course content can be browsed here in static HTML format. This is sufficient
   * (Background and reference)[Week1.md]
   * (Notebook 1: "Look at this figure")[../nb/01_01_Look%20At%20This%20Figure.ipynb]
   * (Notebook 2: "Dice rolls and histograms")[../nb/01_02_Dice_Rolls_and_Histograms.ipynb]
-  * (Notebook 3: "Dice rolls and histograms")[../nb/01_03_Hubble_Measurements.ipynb]
+  * (Notebook 3: "Hubble constant measurements")[../nb/01_03_Hubble_Measurements.ipynb]
 * Notes for Week 2:
   * Topics: Measurement uncertainties, weighted means, error propagation 
 * Notes for Week 3:
