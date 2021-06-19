@@ -15,10 +15,28 @@ You will need:
    1. miniconda (recommened)
 	  1. You wil have to use the terminal window to install miniconda, it isn't complicated, but that might be new to some of you.
 	  2. You will have to install a few extra data analysis packages by hand, again, it isn't complicated.
-  2. anaconda
-	 1. You won't need the terminal window, and the installation will install all the packages you need (and a whole lot more)	
-2. The notebooks and data for this course
-	   
+   2. anaconda
+	  1. You won't need the terminal window, and the installation will install all the packages you need (and a whole lot more)	
+2. The notebooks and data for this course, there are three ways you can access these:
+   1. Using the git tool
+   2. Using the github-desktop tool
+   3. Downloading them from the repository directly
+
+
+
+## Installing python and a python package manager on your computer
+
+Python is the standard programming language for doing data analysis in most of physics and astronomy.  It is very easy to get started with, so if you are completely new to Python, don't worry.  We won't be doing anything terribly fancy with python and we will take care to explain the things that we do.
+
+One of the advantages of python is that there is a huge python-based software ecosystem that includes some great data analysis tools.  In particular we will
+be using a few of these python packages in this class.
+
+- numpy: (i.e., "numerical python") a package for doing mathematical computations and manipulations
+- scipy: (i.e., "scientific python") a scientific tool-kit for python
+- matplotlib: a graphics and plotting package
+
+Depending on how you install python, you might have to install these packages seperately.  Fortunatly, there are some great tools to manage python packages.  We will be using the "conda" tool.
+
 
 ### Option 1:  Installing 'miniconda'
 
@@ -32,7 +50,7 @@ Once you have installed and setup up miniconda, you can run this command in the 
 
 ### Option 2: Installing 'anaconda'
 
-The "Anaconda" data analysis enviroment is much more complete that miniconda, and includes some other things that you might find useful, but you certainly don't need it for this course
+The "Anaconda" data analysis enviroment is much more complete that miniconda, and includes some other things that you might find useful, but you certainly don't need it for this course.
 
 It does have the nice feature of complete environment, so you won't have to use the terminal to install anything.
 
@@ -63,7 +81,8 @@ Then at any point you can update the repository on your computer to the latest v
 
 `git stash`
 
-This will move all of the changes that you have made to a backup area.
+This will move all of the changes that you have made to a backup area so they don't get overwritten when you get new files
+for the repository.
 
 `git pull`
 
@@ -102,13 +121,11 @@ One you have started jupyter, it will pop up a browser window showing the conten
 
 ## Backup plan, Running these notebooks using jupyter on the web. 
 
-If for some reason you have issues installing the software on your computer, you can also use the service "binder" to run the notebooks on a remote server on the web.  This works, but has the disadvantage that it can be difficult to the work you do in the notebook, so you will probably end up copying things to 
+If for some reason you have issues installing the software on your computer, you can also use the service "binder" to run the notebooks on a remote server on the web.  This works, but has the disadvantage that it can be difficult to save the work you do in the notebook, so you will probably end up copying things to
+a file.
 
 1. Go to https://mybinder.org/
 2. Type "KIPAC/Physics67" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
 
-
-### Opening a Notebooks in your brower
-
-One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (What this is depends a bit on which 
+It is probably fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.
 
