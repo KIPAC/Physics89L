@@ -38,7 +38,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 * Getting Started
   * [Overview](overview.md)
   * [Software setup](setup.md)
-  * [Social rules and expectationa](social.md)
+  * [Social rules and expectations](social.md)
 * Notes for Week 1: 
   * Topics: Measurements, Plotting, Simple Statistics (mean, median, variance, ...)
   * [Background and reference](Week1.md)
@@ -72,3 +72,6 @@ Navid Safvati and distributed for copying and extension under the
 GPLv3 License, unless otherwise noted.
 
 If you have any feedback for us, please write us an issue.
+
+<!--  LocalWords:  jupyter setup.md Lineham
+ -->

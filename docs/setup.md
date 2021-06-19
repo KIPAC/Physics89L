@@ -1,20 +1,24 @@
 # Setting up your computer for Physics 67
 
-We will be using [Jupyter notebooks](https://jupyter.org/) with the interactive [IPython](http://ipython.org/) enviroment to do the labs in this course.
+We will be using [Jupyter notebooks](https://jupyter.org/) with the interactive [IPython](http://ipython.org/) environment to do the labs in this course.
 
 Each week you will be working through 1-3 notebooks during the lab time, and then spending some additional time writing up a short report on what you did.
+
+Getting set up to run these notebooks on your computer has been described as anywhere from "pretty trivial" to "rather painful", so hopefully everything works well for you, but please don't worry if you have problems getting set up.  We have a lot of options and will make sure that everyone can work effectively.
 
 
 ## Running these notebooks on your computer
 
-To run these notebooks you are going to install some software on your computer.  Depending on the type of computer you have, and how tech-savy your are, the details are going to differ a bit, so we are just going to refer you to online installation guides.
+Quick option:  [Run on the cloud](#Backup plan)
 
-Don't worry if you get stuck or have problems installing the software.  We will have some time during the first week to help you get set up.  You won't really need the software until the second week, and you can actually run the notebooks on the cloud (though we strongly recommend you run them on your own computer).
+To run these notebooks you are going to install some software on your computer.  Depending on the type of computer you have, and how tech-savvy you are, the details are going to differ a bit, but there are many very good online installation guides.
+
+Again, don't worry if you get stuck or have problems installing the software.  We will have some time during the first week to help you get set up.  You won't really need the software until the second week, and you can actually run the notebooks on the cloud (though we strongly recommend you run them on your own computer).
 
 You will need:
 
 1. A python installation and python package manager, typically this will be either:
-   1. miniconda (recommened)
+   1. miniconda (recommenced)
 	  1. You wil have to use the terminal window to install miniconda, it isn't complicated, but that might be new to some of you.
 	  2. You will have to install a few extra data analysis packages by hand, again, it isn't complicated.
    2. anaconda
@@ -37,7 +41,7 @@ be using a few of these python packages in this class.
 - scipy: (i.e., "scientific python") a scientific tool-kit for python
 - matplotlib: a graphics and plotting package
 
-Depending on how you install python, you might have to install these packages seperately.  Fortunatly, there are some great tools to manage python packages.  We will be using the "conda" tool.
+Depending on how you install python, you might have to install these packages separately.  Fortunately, there are some great tools to manage python packages.  We will be using the "conda" tool.
 
 
 ### Option 1:  Installing 'miniconda'
@@ -52,7 +56,7 @@ Once you have installed and setup up miniconda, you can run this command in the 
 
 ### Option 2: Installing 'anaconda'
 
-The "Anaconda" data analysis enviroment is much more complete that miniconda, and includes some other things that you might find useful, but you certainly don't need it for this course.
+The "Anaconda" data analysis environment is much more complete that miniconda, and includes some other things that you might find useful, but you certainly don't need it for this course.
 
 It does have the nice feature of complete environment, so you won't have to use the terminal to install anything.
 
@@ -123,7 +127,9 @@ If you installed anaconda, then you can start jupyter from the anaconda App grap
 One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (Either the folder you ran the `jupyter-notebook` command from, or a folder that you can set in the anaconda preferences).  From there you should navigate to the folder that you have installed the course in and click on the notebook you want to run.
 
 
-## Backup plan, Running these notebooks using jupyter on the web. 
+## Backup plan
+
+Running these notebooks using jupyter on the web. 
 
 If for some reason you have issues installing the software on your computer, you can also use the service "binder" to run the notebooks on a remote server on the web.  This works, but has the disadvantage that it can be difficult to save the work you do in the notebook, so you will probably end up copying things to
 a file.
@@ -133,3 +139,8 @@ a file.
 
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports.
 
+
+<!--  LocalWords:  Jupyter IPython miniconda github-desktop numpy
+ -->
+<!--  LocalWords:  scipy matplotlib github
+ -->

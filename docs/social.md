@@ -16,14 +16,14 @@ If you find yourself breaking one of these rules, please apologize, use it as a 
 
 You will be spending most of your time working in small groups in "breakout" rooms in zoom.  While each of you will have your own computer and will be working through the notebooks on your own, there will be many times when you are asked to discuss questions in the notebooks.
 
-Small group discusssions can be tricky.  There are many different ways that people discuss new ideas, some people are naturally quieter than others, some people express themselves in a few sentences, others take more time to express themselves.  Some people organize their thoughts while speaking, others people like to think things through before they start speaking.
+Small group discussions can be tricky.  There are many different ways that people discuss new ideas, some people are naturally quieter than others, some people express themselves in a few sentences, others take more time to express themselves.  Some people organize their thoughts while speaking, others people like to think things through before they start speaking.
 
 As the start of the course we'd like each group to have a short discussion about what you think will work best for your group to:
 
 	1. To help each other understand the course material and answer the questions in the labs.
 	2. To make sure that everyone participates.
 
-Some groups might find that everyone is comfortable just speaking out, other groups might find that it is more useful to be more delibarate and have a system where you speak in turn when answering the questions.  The point here is really to do what works for you and your group.
+Some groups might find that everyone is comfortable just speaking out, other groups might find that it is more useful to be more deliberate and have a system where you speak in turn when answering the questions.  The point here is really to do what works for you and your group.
 
 
 
