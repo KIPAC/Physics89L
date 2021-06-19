@@ -140,6 +140,16 @@ a file.
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports.
 
 
+
+## Testing your setup
+
+To test your setup, navigate to "nb" folder of this repository and run the "Test_Notebook.ipynb" notebook.
+
+If you click on the "Run" button twice, and you have everything set up correctly you should see a plot that looks like this:
+
+![It Works](./figures/it_works)
+
+
 <!--  LocalWords:  Jupyter IPython miniconda github-desktop numpy
  -->
 <!--  LocalWords:  scipy matplotlib github
