@@ -4,9 +4,9 @@ These are course notes and resources for Physics 67, Introduction to Laboratory 
 
 ## Course Descriptions
 
-Welcome to Physics 67.   The goal of this course is to give you practical knowledge of basic tools that you will need to do research in physics and/or astronomy.  
+Welcome to Physics 67.   The goal of this course is to give you practical knowledge of basic tools that you will need to do research in physics and/or astronomy.
 
-In particular we will be focusing on why we use data analysis methods and techniques that you will be learning.   All of the instructors of the course had the experience that we never really understood many of the data analysis and statistical methods we learned as undergraduates until we had to use them in our own research.  
+In particular we will be focusing on why we use data analysis methods and techniques that you will be learning.   All of the instructors of the course had the experience that we never really understood many of the data analysis and statistical methods we learned as undergraduates until we had to use them in our own research.
 
 **We believe an active learning approach, where we spend more time understanding and discussing the problems that these methods are intended to solve will help you to a deeper understanding of both the tools, and why we use them for data analysis.**
 
