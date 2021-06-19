@@ -1,4 +1,4 @@
-# Physics 67: Introduction to Laboratory Physics
+# Introduction to Laboratory Physics
 
 These are course notes and resources for Physics 67, Introduction to Laboratory Physics
 
@@ -28,9 +28,12 @@ Techniques to learn that will help reach the goal:
 
 ## Course Contents
 
-Start by looking at the course design to understand how this course works, and Getting Started to get up and running with Python and Jupyter, if needed. Enrolled students should also read the Assignments page to see what is expected.
+Start by looking at the materials under the "Getting Started" bullet
+point to understand how this course works, and get up and running with
+the software tools that you will be using in the course.
 
-The course content can be browsed here in static HTML format. This is sufficient for the notes, but to do the tutorials you will need to download them in Jupyter notebook format from the GitHub repository.
+The course content can be browsed here.
+This is sufficient for the notes, but to do the tutorials you will need to download them in Jupyter notebook format from the GitHub repository.
 
 * Getting Started
   * [Overview](overview.md)
