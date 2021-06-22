@@ -134,8 +134,9 @@ Running these notebooks using jupyter on the web.
 If for some reason you have issues installing the software on your computer, you can also use the service "binder" to run the notebooks on a remote server on the web.  This works, but has the disadvantage that it can be difficult to save the work you do in the notebook, so you will probably end up copying things to
 a file.
 
-1. Go to https://mybinder.org/
-2. Type "KIPAC/Physics67" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
+You can run the notebooks for week 1 by navigating to this site:
+
+https://mybinder.org/v2/gh/KIPAC/Physics67/v0.0
 
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports.
 
