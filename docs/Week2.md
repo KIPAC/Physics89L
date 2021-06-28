@@ -10,7 +10,7 @@ Topics covered:
   propagation](#Measurement uncertainties, weighted means, error propagation)
   * [Scientific context](#Scientific context and resources)
   * [Python functions and tools reference](#Python functions reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1RTjOCCsLfoN1M18KtLr6DxOT1FBVxqsSlBNswbc9nyE/edit?usp=sharing)
+  * [Template for "report" questions](https://docs.google.com/document/d/1ZmV0GQr0SfdIbLfKm5ibpRwBmCR8KGVTmVatiQr8sxI/edit?usp=sharing)
 
 
 ## Measurement uncertainties, weighted means, error propagation 
