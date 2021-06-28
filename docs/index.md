@@ -45,8 +45,14 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 1: "Look at this figure"](../nb/01_01_Look%20At%20This%20Figure.ipynb)
   * [Notebook 2: "Dice rolls and histograms"](../nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](../nb/01_03_Hubble_Measurements.ipynb)
+  * [Follow up](Week1_after.md)
 * Notes for Week 2:
-  * Topics: Measurement uncertainties, weighted means, error propagation 
+  * Topics: Measurement uncertainties, weighted means, error
+  propagation
+  * [Background and reference](Week2.md)
+  * [Notebook 1: "More Dice Rolling"](02_01_More_Dice_Rolling.ipynb)
+  * [Notebook 2: "Hubble Constant Uncertainties"](02_02_Hubble_Constant_Uncertainties.ipynb)
+  * [Notebook 3: "Propagation of Errors"](02_03_Propagation_of_errors.ipynb)
 * Notes for Week 3:
   * Topics: Error propagation and analysis
 * Notes for Week 4:
