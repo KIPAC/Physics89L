@@ -46,3 +46,6 @@ distances to faraway galaxies.
 | plt.imshow               | Plot a 2-dimensional array of values as a color image |
 | plt.colorbar             | Attach an color axes label to a figure |
 | plt.legend               | Attach a legend to a figure |
+
+<!--  LocalWords:  numpy.var plt.imshow plt.colorbar plt.legend
+ -->
