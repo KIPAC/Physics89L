@@ -7,9 +7,9 @@ Topics covered:
 
 * Course material
   * [Measurement uncertainties, weighted means, error
-  propagation](#Measurements and simple statistics)
-  * [Scientific context](#Scientific context)
-  * [Python functions and tools reference](#Functions reference)
+  propagation](#Measurement uncertainties, weighted means, error propagation)
+  * [Scientific context](#Scientific context and resources)
+  * [Python functions and tools reference](#Python functions reference)
   * [Template for "report" questions](https://docs.google.com/document/d/1RTjOCCsLfoN1M18KtLr6DxOT1FBVxqsSlBNswbc9nyE/edit?usp=sharing)
 
 
@@ -26,7 +26,7 @@ These topics are covered in chapters 3 and 4 of: "Measurements and Their Uncerta
 
 ## Scientific context and resources
 
-We are going to be continuing to work primarily with the set of
+We are going to be continuing to work with the set of
 measurements of the Hubble constant.
 
 We will also be measuring the area of the desk or table that we are
@@ -36,7 +36,7 @@ in particular the ["distance ladder"](https://en.wikipedia.org/wiki/Cosmic_dista
 distances to faraway galaxies.
 
 
-## Python functions and tools reference
+## Python functions reference
 
 | Function Name            | What it does |
 | - | - |
