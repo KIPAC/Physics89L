@@ -6,14 +6,13 @@ Topics covered:
   * "Answers" to questions from week 1 Lab.  Comments [here](Week1_after.md)
 
 * Course material
-  * [Measurement uncertainties, weighted means, error
-  propagation](#Measurement%20uncertainties,%20weighted means,%20error%20propagation)
+  * [Data analysis topics](#Data%20analysis,%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
   * [Template for "report" questions](https://docs.google.com/document/d/1ZmV0GQr0SfdIbLfKm5ibpRwBmCR8KGVTmVatiQr8sxI/edit?usp=sharing)
 
 
-## Measurement uncertainties, weighted means, error propagation 
+## Data analysis topics
 
 This week we are going to be discussing how to interpret and estimate
 measurement uncertainties. 
