@@ -6,14 +6,11 @@
 It is very useful be totally comfortable with some terms that are
 commonly used to describe measurements.
 
-| True value |  The real value of the thing we are try to measure.
-May or may not be known, depending on the context. |
+| True value |  The real value of the thing we are try to measure. May or may not be known, depending on the context. |
 | Accuracy | How close we come to measuring the true value |
 | Bias | Measuring a value that is different from the true value |
-| Uncertainty | The range in which we think the true value
-"probably" lies. |
-| Precision | How small our uncertainty is, irrespective of how
-accurate it is. |
+| Uncertainty | The range in which we think the true value "probably" lies. |
+| Precision | How small our uncertainty is, irrespective of how accurate it is. |
 
 So, a highly accurate measurement has very little bias.  A highly
 precise measurement has very small uncertainty.  A "good" measurement is
@@ -28,7 +25,7 @@ measurements.
 
 The data looked like this:
 
-![Random Dice](./DiceRolls.png)
+![Hubble data](./Hubble.png)
 
 When asked to estimate the uncertainty of the Hubble parameter, many
 of you gave numbers from $3 -- 6 Km s^{-1} Mpc^{-1}$.  However, the
