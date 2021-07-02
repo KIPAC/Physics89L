@@ -52,9 +52,10 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week2.md)
   * [Notebook 1: "More Dice Rolling"](02_01_More_Dice_Rolling.ipynb)
   * [Notebook 2: "Hubble Constant Uncertainties"](02_02_Hubble_Constant_Uncertainties.ipynb)
-  * [Notebook 3: "Propagation of Errors"](02_03_Propagation_of_errors.ipynb)
 * Notes for Week 3:
   * Topics: Error propagation and analysis
+  * [Notebook 1: "Propagation of Errors"](03_01_Propagation_of_errors.ipynb)
+  * [Notebook 2: "Propagation of Errors"](03_02_More_Error_Propagation.ipynb)
 * Notes for Week 4:
   * Topics: Gaussian Distributions, p-values 
 * Notes for Week 5:

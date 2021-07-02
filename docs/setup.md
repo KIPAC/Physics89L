@@ -138,6 +138,10 @@ You can run the notebooks for week 1 by navigating to this site:
 
 https://mybinder.org/v2/gh/KIPAC/Physics67/v0.0
 
+Similarly, the notebooks for week 2 are at:
+
+https://mybinder.org/v2/gh/KIPAC/Physics67/v0.1
+
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports.
 
 
