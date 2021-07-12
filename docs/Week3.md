@@ -1,4 +1,4 @@
-# Notes and materials for Week 2
+# Notes and materials for Week 3
 
 Topics covered:
 
