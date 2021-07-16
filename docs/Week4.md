@@ -32,6 +32,15 @@ The reason this is possible is that Fermi telescope can see about one-fifth of t
 We will not be using a lot of new python functions this week.  Here
 are the important ones that we will be using.
 
+| Function Name            | What it does |
+| - | - |
+|    numpy.random.poisson  | generates a random integer from a "Poisson" distribution |
+|    scipy.stats.norm      | Interact with a Gaussian distribution |
+|    plt.annotate          | Add text to a plot |  
+|    datetime.datetime.fromtimestamp  | Converts time from seconds since a reference to a format with year, month, day, etc..., which matplotlib uses to make nice plot axis labels |
+|    np.argmax             | Find the index of the largest element in an array  |
+
+
 
 <!--  LocalWords:  numpy.var plt.imshow plt.colorbar plt.legend
  -->
