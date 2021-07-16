@@ -3,6 +3,7 @@
 Topics covered: Gaussian distribution and p-values.
 
 * Announcements and information
+  * Please take 2 minutes to fill out the very short 4 questions course feedback form on canvas.   
   * Follow up from week 3 Lab.  Comments [here](Week3_after.md)
 
 * Course material
