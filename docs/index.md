@@ -58,8 +58,12 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week3.md)
   * [Notebook 1: "Propagation of Errors"](03_01_Propagation_of_errors.ipynb)
   * [Notebook 2: "Propagation of Errors"](03_02_More_Error_Propagation.ipynb)
+  * [Follow up](Week3_after.md) 
 * Notes for Week 4:
-  * Topics: Gaussian Distributions, p-values 
+  * Topics: Gaussian Distributions, p-values
+  * [Background and reference](Week4.md)
+  * [Notebook 1: "Lets make a Gaussian"](04_01_Lets_Make_A_Gaussian.ipynb)
+  * [Notebook 2: "Vela Pulsar"](04_02_Vela_Pulsar.ipynb)
 * Notes for Week 5:
   * Topics: Correlations, Least Squares Fitting 
 * Notes for Week 6:
