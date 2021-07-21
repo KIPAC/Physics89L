@@ -3,6 +3,7 @@
 Topics covered: Gaussian distribution and p-values.
 
 * Announcements and information
+  * Please take 2 minutes to fill out the very short 4 questions course feedback form on canvas.   
   * Follow up from week 3 Lab.  Comments [here](Week3_after.md)
 
 * Course material
@@ -26,7 +27,7 @@ In the second Jupyter notebook we will be using the output of some data analysis
 
 Many of these extreme environments are also extremely variable.  I.e., in the case of an explosion, you might suddenly see a bright source that wasn't there the day before.   It turns out the cores of galaxies can exhibit variability on timescales of hours to days to weeks.   One important aspect of the Fermi mission is to detect when these objects flare up and notify astronomers with other telescopes so they can study them while they are flaring.
 
-The reason this is possible is that Fermi telescope can see about one-fifth of the sky at any one time, and scans the entire sky every 3 hours.xs
+The reason this is possible is that Fermi telescope can see about one-fifth of the sky at any one time, and scans the entire sky every 3 hours.
 
 
 ## Python functions reference
