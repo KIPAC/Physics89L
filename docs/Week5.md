@@ -9,7 +9,7 @@ Topics covered: Correlation and least-square fitting.
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1Sgd8d8SA93lv9McCVPVkYml5q3eHGa8DJTwjV7X0WAY/edit?usp=sharingxs)
+  * [Template for "report" questions](https://docs.google.com/document/d/1CRDavwRu1C37xg2_VFTXRthc-K03MIzdrciGSMwUf1g/edit?usp=sharing)
 
 ## Data analysis topics
 
