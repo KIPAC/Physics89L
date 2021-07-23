@@ -67,7 +67,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Follow up](Week4_after.md)
 * Notes for Week 5:
   * Topics: Correlations, Least Squares Fitting
-  * [Background and reference](Week4.md)
+  * [Background and reference](Week5.md)
   * [Notebook 1: ""](../nb/05_01_Correlations.ipynb)
   * [Notebook 2: ""](../nb/05_02_Fitting_A_Line_to_Data.ipynb)
 * Notes for Week 6:
