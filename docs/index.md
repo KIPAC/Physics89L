@@ -68,8 +68,8 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 * Notes for Week 5:
   * Topics: Correlations, Least Squares Fitting
   * [Background and reference](Week5.md)
-  * [Notebook 1: ""](../nb/05_01_Correlations.ipynb)
-  * [Notebook 2: ""](../nb/05_02_Fitting_A_Line_to_Data.ipynb)
+  * [Notebook 1: "Correlations"](../nb/05_01_Correlations.ipynb)
+  * [Notebook 2: "Fitting a line to data"](../nb/05_02_Fitting_A_Line_to_Data.ipynb)
 * Notes for Week 6:
   * Topics: Probability distributions: Poisson, Gaussian, Lognormal 
 * Notes for Week 7:
