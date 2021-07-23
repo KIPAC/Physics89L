@@ -50,22 +50,26 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * Topics: Measurement uncertainties, weighted means, error
   propagation
   * [Background and reference](Week2.md)
-  * [Notebook 1: "More Dice Rolling"](02_01_More_Dice_Rolling.ipynb)
-  * [Notebook 2: "Hubble Constant Uncertainties"](02_02_Hubble_Constant_Uncertainties.ipynb)
+  * [Notebook 1: "More Dice Rolling"](../nb/02_01_More_Dice_Rolling.ipynb)
+  * [Notebook 2: "Hubble Constant Uncertainties"](../nb/02_02_Hubble_Constant_Uncertainties.ipynb)
   * [Follow up](Week2_after.md)
 * Notes for Week 3:
   * Topics: Error propagation and analysis
   * [Background and reference](Week3.md)
-  * [Notebook 1: "Propagation of Errors"](03_01_Propagation_of_errors.ipynb)
-  * [Notebook 2: "Propagation of Errors"](03_02_More_Error_Propagation.ipynb)
+  * [Notebook 1: "Propagation of Errors"](../nb/03_01_Propagation_of_errors.ipynb)
+  * [Notebook 2: "Propagation of Errors"](../nb/03_02_More_Error_Propagation.ipynb)
   * [Follow up](Week3_after.md) 
 * Notes for Week 4:
   * Topics: Gaussian Distributions, p-values
   * [Background and reference](Week4.md)
-  * [Notebook 1: "Lets make a Gaussian"](04_01_Lets_Make_A_Gaussian.ipynb)
-  * [Notebook 2: "Vela Pulsar"](04_02_Vela_Pulsar.ipynb)
+  * [Notebook 1: "Lets make a Gaussian"](../nb/04_01_Lets_Make_A_Gaussian.ipynb)
+  * [Notebook 2: "Vela Pulsar"](../nb/04_02_Vela_Pulsar.ipynb)
+  * [Follow up](Week4_after.md)
 * Notes for Week 5:
-  * Topics: Correlations, Least Squares Fitting 
+  * Topics: Correlations, Least Squares Fitting
+  * [Background and reference](Week5.md)
+  * [Notebook 1: ""](../nb/05_01_Correlations.ipynb)
+  * [Notebook 2: ""](../nb/05_02_Fitting_A_Line_to_Data.ipynb)
 * Notes for Week 6:
   * Topics: Probability distributions: Poisson, Gaussian, Lognormal 
 * Notes for Week 7:
