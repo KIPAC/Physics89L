@@ -38,7 +38,8 @@ If x and y values tend to be independent of each other, then the covariance will
 
 Least square fitting is a type of model fitting. This relies on looking at the squared differences between the data points and the model (i.e. the "residuals") and using these to estimate how well the two agree. The "best" fits are those with small squared residuals.
 
-![Fitting model to Data (Generic)](Fitting.png)
+<img src="Fitting.png" alt="Fitting model to data" width="500"/>
+#![Fitting model to Data (Generic)](Fitting.png)
 
 Basically what we do is we make a model with some free parameters that could describe some data we have.
 
