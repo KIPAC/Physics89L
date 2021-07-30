@@ -70,8 +70,12 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week5.md)
   * [Notebook 1: "Correlations"](../nb/05_01_Correlations.ipynb)
   * [Notebook 2: "Fitting a line to data"](../nb/05_02_Fitting_A_Line_to_Data.ipynb)
+  * [Follow up](Week5_after.md)  
 * Notes for Week 6:
-  * Topics: Probability distributions: Poisson, Gaussian, Lognormal 
+* Topics: Least Squares Fitting with a Function Minimizer
+  * [Background and reference](Week5.md)
+  * [Notebook 1: "Optimizing a fit and how to do it wrong"](../nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
+  * [Notebook 2: "Sloan digital sky survey spectra"](../nb/06_02_SDSS_Spectra.ipynb)
 * Notes for Week 7:
   * Topics: Data selection and reduction, efficiency measurements 
 * Notes for Week 8:
