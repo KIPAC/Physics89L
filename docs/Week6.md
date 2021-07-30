@@ -67,7 +67,8 @@ are the important ones that we will be using.
 
 | Function Name            | What it does |
 | - | - |
-\
+| scipy.optimize.minimize  | Find the set of parameters that minimize a cost function |
+
 
 <!--  LocalWords:  Jupyter plate-sdss.jpg sdss_spec_1.png
  -->
