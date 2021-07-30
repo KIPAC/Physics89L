@@ -20,6 +20,8 @@ If we make a histogram of those scaled differences we get something like this:
 
 ![Scaled Residuals](scaled_residuals.png)
 
+Where the orange curve is for a pretty good set of parameter values, and the blue curve is for some not so good parameter values.
+
 The `chi**2` is the sum of the squares of the values in that histogram.  (Note that is also equal to the variance of the histogram
 times the number of data points).
 
