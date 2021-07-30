@@ -53,7 +53,7 @@ Here is a picture of one such aluminum plate:
 
 Here are a couple of spectra:
 
-<img src="sdss_spec_1.png" width=40%><img src="sdss_spec_2.png" width=40%>
+<img src="./sdss_spec_1.png" width=40%><img src="./sdss_spec_2.png" width=40%>
 
 The figures have been helpfully annotated, showing the lines that correspond to particular atomic transitions.  By comparing
 the measured wavelength of the lines with the know emission wavelength we can measure the dopper shift for each object.
