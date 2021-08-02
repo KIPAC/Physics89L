@@ -22,7 +22,9 @@ parameters and computing the `chi**2` for each value of the parameter.
 
 ![Chi squared scan](scan_slope.png)
 
-We also did this for two parameters at once.
+We also did this for two parameters at once.  That gave us a plot that looks like this:
+
+![Two dimensional chi squared scan](2d_fit.png)
 
 This week we are going to use an algorithm that finds the set of parameters that minimize the `chi**2` and give the best fit.
 
