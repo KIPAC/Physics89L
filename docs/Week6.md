@@ -32,7 +32,7 @@ There are a number of different algorithms that can find the parameters that min
 they start out with an initial guess, and then try to improve on that guess until they believe that they are very close to the best
 solution.  The details of how the algorithm works are well beyond the scope of this class, but this is a very useful tool to be familiar with.
 
-<img src="./fitter.jpg" width=40%>
+<img src="./fitter.png" width=40%>
 
 ## Scientific context and resources
 
