@@ -24,18 +24,20 @@ Diagram of data selection
 
 
 
+
 ## Scientific context and resources
 
 In these two notebooks, we'll be studying a simple example of how a dark matter direct detection search works.
 
 Dark matter is a type of matter that comprises about 85 percent of the matter density of the universe, but whose properties are still relatively unknown to us. There are a few different ways we can try to understand these properties. One of these is called "direct detection," where we wait for dark matter particles to bump into very sensitive detectors and leave a signal. The LUX-ZEPLIN (LZ) experiment is one such detector. It uses a tub filled with liquid xenon to look for scatters of dark matter on xenon atoms:
 
-![Data Selection](LZDetector.png)
-Image of detector
+<img src="LZDetector.png" alt="LZ Detector" width="500"/>
 
-When particles scatter off of xenon atoms, they produce two signals: an initial burst of light (an S1), and a secondary burst of light (S2), created from electrons freed in the initial interaction. This light is detected by arrays of photomultiplier tubes in the top and bottom of the detector:
+When particles scatter off of xenon atoms, they produce two signals: an initial burst of light (an S1), and a secondary burst of light (S2), created from electrons freed in the initial interaction. This light is detected by arrays of photomultiplier tubes (PMTs) in the top and bottom of the detector:
 
+<img src="PMTArray.png" alt="PMT Array" width="500"/>
 ![PMT Array](PMTArray.png)
+<img src="EventWaveform.png" alt="Event Waveform" width="500"/>
 ![Event Waveform](EventWaveform.png)
 
 Different types of interactions can create different sizes of S2, however. Dark matter scatters will generally produce less S2 light for a similar recoil energy than a background gamma ray or beta ray. Having tools to suppress background, and equally important, discriminate background from our desired dark matter signal, allows us to mount ever more-sensitive searches for dark matter.
