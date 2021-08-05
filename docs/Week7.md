@@ -36,9 +36,10 @@ Dark matter is a type of matter that comprises about 85 percent of the matter de
 When particles scatter off of xenon atoms, they produce two signals: an initial burst of light (an S1), and a secondary burst of light (S2), created from electrons freed in the initial interaction. This light is detected by arrays of photomultiplier tubes (PMTs) in the top and bottom of the detector:
 
 <img src="PMTArray.png" alt="PMT Array" width="500"/>
-![PMT Array](PMTArray.png)
+
+The S1 and S2 signal structures look slightly different, which helps us identify them (signals shown below - S1 is green, S2 is blue).
+
 <img src="EventWaveform.png" alt="Event Waveform" width="500"/>
-![Event Waveform](EventWaveform.png)
 
 Different types of interactions can create different sizes of S2, however. Dark matter scatters will generally produce less S2 light for a similar recoil energy than a background gamma ray or beta ray. Having tools to suppress background, and equally important, discriminate background from our desired dark matter signal, allows us to mount ever more-sensitive searches for dark matter.
 
