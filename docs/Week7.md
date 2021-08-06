@@ -9,7 +9,7 @@ Topics covered: Data selection, efficiency, leakage, and rare event searches
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions]()
+  * [Template for "report" questions](https://docs.google.com/document/d/1LnjMP2Rsgd3L5YE67NO0wfJBsKcGmIN_DyN75Z2PC2w/edit?usp=sharing)
 
 ## Data analysis topics
 
@@ -20,9 +20,7 @@ This week we're going to study techniques for selecting data of interest from a 
 To sensibly reduce data to see rarer and more interesting signals, we use two concepts: signal acceptance and background leakage. The former tells us how the "interesting" data is affected by our data reduction, and the latter tells us how the "less interesting" data is affected by our data reduction. Both are necessary to properly do a search for rare signals.
 
 Diagram of data selection
-![Data Selection](dataselection.png)
-
-
+<img src="DataCuts.png" alt="Data selection" width="500"/>
 
 
 ## Scientific context and resources
@@ -41,7 +39,7 @@ The S1 and S2 signal structures look slightly different, which helps us identify
 
 <img src="EventWaveform.png" alt="Event Waveform" width="500"/>
 
-Different types of interactions can create different sizes of S2, however. Dark matter scatters will generally produce less S2 light for a similar recoil energy than a background gamma ray or beta ray. Having tools to suppress background, and equally important, discriminate background from our desired dark matter signal, allows us to mount ever more-sensitive searches for dark matter.
+Different types of interactions can create different sizes of S2, however. Dark matter scatters will generally produce less S2 light than will a background gamma ray or beta ray with a similar deposited energy. Having tools to suppress background, and equally importantly, discriminate background from our desired dark matter signal, allows us to mount ever more-sensitive searches for dark matter.
 
 The LZ experiment will be turning on very soon, so stay tuned for word on our search!
 
