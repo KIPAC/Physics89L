@@ -77,7 +77,10 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](../nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "Sloan digital sky survey spectra"](../nb/06_02_SDSS_Spectra.ipynb)
 * Notes for Week 7:
-  * Topics: Data selection and reduction, efficiency measurements 
+  * Topics: Data selection and reduction, efficiency measurements
+    [Background and reference](Week7.md)
+    [Notebook 1: "Cuts, Acceptance, and Leakage"](../nb/07_01_Cuts_Acceptance_Leakage.ipynb)
+    [Notebook 2: "Performing a Dark Matter Search"](../nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 * Notes for Week 8:
   * Topics: Exponential decay or Time-domain analysis 
 * Notes for Week 9:
@@ -88,11 +91,11 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 ## Contact and Legal
 
-All materials Copyright 2021 Eric Charles, Ryan Lineham and Benjamin
+All materials Copyright 2021 Eric Charles, Ryan Linehan and Benjamin
 Navid Safvati and distributed for copying and extension under the
 GPLv3 License, unless otherwise noted.
 
 If you have any feedback for us, please write us an issue.
 
-<!--  LocalWords:  jupyter setup.md Lineham
+<!--  LocalWords:  jupyter setup.md Linehan
  -->
