@@ -76,6 +76,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week6.md)
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](../nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "Sloan digital sky survey spectra"](../nb/06_02_SDSS_Spectra.ipynb)
+  * [Follow up](Week6_after.md)
 * Notes for Week 7:
   * Topics: Data selection, acceptance, leakage, and rare event searches
   * [Background and reference](Week7.md)
