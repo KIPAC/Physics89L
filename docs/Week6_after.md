@@ -18,6 +18,6 @@ Note: we can also "over-fit" data, where we provide many more many parameters th
 
 The last idiosyncrasy we learned about was the fitter's ability to either not converge, or converge on values very far from what we expect it to. This usually occurs if we don't provide reasonable starting values for our fit function:
 
-<img src="NonConvergence.png" alt="Non-convergence of model to data" width=500"/>
+<img src="NonConvergence.png" alt="Non-convergence of model to data" width="500"/>
 
 One good rule of thumb with fitting: always make sure to visually check how good your fit is - don't just rely on the magic of the minimizer and assume your fit will come out with sensible parameter values!

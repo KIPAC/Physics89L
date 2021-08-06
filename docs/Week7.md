@@ -19,7 +19,6 @@ This week we're going to study techniques for selecting data of interest from a 
 
 To sensibly reduce data to see rarer and more interesting signals, we use two concepts: signal acceptance and background leakage. The former tells us how the "interesting" data is affected by our data reduction, and the latter tells us how the "less interesting" data is affected by our data reduction. Both are necessary to properly do a search for rare signals.
 
-Diagram of data selection
 <img src="DataCuts.png" alt="Data selection" width="500"/>
 
 
