@@ -6,7 +6,7 @@ Two weeks ago, we learned how the `chi**2` could be used as a metric for the lev
 
 Last week, we learned a few ways that using this `chi**2` may return less-than-ideal results. If parameters aren't chosen in a thoughtful way, then you may end up with correlated parameters, where after changing one, you must also change another to locally minimize the `chi**2`.  This makes it harder to describe and interpret the results because you can no longer consider the parameters individually.
 
-<img src=correlated_params.png alt="Correlated parameters" width="500"/>
+<img src="correlated_params.png" alt="Correlated parameters" width="500"/>
 
 Moreover, we learned about some fitter idiosyncrasies. For example, if a reasonable number of parameters are chosen, and initial values are chosen close enough to the desired ones, then fitters can do a very nice job matching model to data:
 
