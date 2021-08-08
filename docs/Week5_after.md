@@ -1,6 +1,6 @@
-# Follow up notes for week 4..
+# Follow up notes for week 5..
 
-### Model fitting and chi-squared.
+### Using code optimizers to do model fitting.
 
 Two weeks ago we learned about how to characterize the significance of data using
 a Gaussian distribution.
