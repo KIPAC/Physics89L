@@ -70,7 +70,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week5.md)
   * [Notebook 1: "Correlations"](../nb/05_01_Correlations.ipynb)
   * [Notebook 2: "Fitting a line to data"](../nb/05_02_Fitting_A_Line_to_Data.ipynb)
-  * [Follow up](Week5_after.md)  
+  * [Follow up](Week5_after.md)
 * Notes for Week 6:
   * Topics: Least Squares Fitting with a Function Minimizer
   * [Background and reference](Week6.md)
@@ -83,11 +83,15 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 1: "Cuts, Acceptance, and Leakage"](../nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a Dark Matter Search"](../nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 * Notes for Week 8:
-  * Topics: Exponential decay or Time-domain analysis 
-* Notes for Week 9:
+  * Topics: Time-domain analysis 
+* Notes for Week 9-10:
   * Topics: Work on final project
-* Notes for Week 10:
-  * Final Project Presentations
+  * [Topic 1: "The Hubble Tension"](../nb/Project_Hubble_Tension.ipynb)
+  * [Topic 2: "A deeper dive into fitting algorithm"](../nb/Project_Fitting_Deep_Dive.ipynb)
+  * [Topic 3: "Selecting initial parameters for fits to SDSS spectral lines"](../nb/Project_SDSS_Line_Fit_Algo.ipynb")
+  * [Topic 4: "Searching for the Higgs Boson"](../nb/Project_Higgs_Search.ipynb)
+  * [Topic 5: "Searching for exoplanets"](../nb/Project_Exoplanet.ipynb)
+
 
 
 ## Contact and Legal
