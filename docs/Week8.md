@@ -8,7 +8,7 @@ Topics covered: Fourier Transform and frequency space, frequency filtering, 2D F
 * Course material
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
-  * [Template for "report" questions](https://docs.google.com/document/d/1LnjMP2Rsgd3L5YE67NO0wfJBsKcGmIN_DyN75Z2PC2w/edit?usp=sharing)
+  * [Template for "report" questions](https://docs.google.com/document/d/16E1nM5dnJG7UwnvTaDexA6iUjGN4W_A4SgBQHuiCDoM/edit?usp=sharing)
 
 ## Data analysis topics
 

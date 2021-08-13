@@ -82,16 +82,19 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week7.md)
   * [Notebook 1: "Cuts, Acceptance, and Leakage"](../nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a Dark Matter Search"](../nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
+  * [Follow up](Week7_after.md)
 * Notes for Week 8:
-  * Topics: Time-domain analysis 
+  * Topics: Frequency analysis: sounds waves and spatial waves
+  * [Background and reference](Week8.md)
+  * [Notebook 1: "Fourier Analysis"](../nb/08_01_Intro_Fourier_Analysis.ipynb)
+  * [Notebook 2: "Electron 'Gas' on a copper surface"](../nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 * Notes for Week 9-10:
-  * Topics: Work on final project
+  * Topics: [Work on final project](Projects.md)
   * [Topic 1: "The Hubble Tension"](../nb/Project_Hubble_Tension.ipynb)
-  * [Topic 2: "A deeper dive into fitting algorithm"](../nb/Project_Fitting_Deep_Dive.ipynb)
+  * [Topic 2: "A deeper dive into fitting algorithms"](../nb/Project_Fitting_Deep_Dive.ipynb)
   * [Topic 3: "Selecting initial parameters for fits to SDSS spectral lines"](../nb/Project_SDSS_Line_Fit_Algo.ipynb")
   * [Topic 4: "Searching for the Higgs Boson"](../nb/Project_Higgs_Search.ipynb)
   * [Topic 5: "Searching for exoplanets"](../nb/Project_Exoplanet.ipynb)
-
 
 
 ## Contact and Legal
