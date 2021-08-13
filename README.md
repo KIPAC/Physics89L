@@ -53,12 +53,3 @@ You can also use the service "binder" to run the notebooks on a remote server on
 
 One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (What this is depends a bit on which 
 
-
-## Schedule and list of notebooks
-
-| Week        | Modules     |
-| ----------- | ----------- |
-| 1           |  [Starting Discussion: Look at this figure](./nb/01_01_Look%20At%20This%20Figure.ipynb).     |
-|             |  [Dice rolls and histograms](./nb/01_02_Dice_Rolls_and_Histograms.ipynb). |
-|             |  [Measuring the Hubble Constant](./nb/01_03_Hubble_Measurements.ipynb). |
-| 2           |  To Be Posted |
