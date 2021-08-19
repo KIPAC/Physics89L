@@ -88,6 +88,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week8.md)
   * [Notebook 1: "Fourier Analysis"](../nb/08_01_Intro_Fourier_Analysis.ipynb)
   * [Notebook 2: "Electron 'Gas' on a copper surface"](../nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
+  * [Follow up](Week8_after.md)
 * Notes for Week 9-10:
   * Topics: [Work on final project](Projects.md)
   * [Topic 1: "The Hubble Tension"](../nb/Project_Hubble_Tension.ipynb)
