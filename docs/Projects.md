@@ -7,6 +7,14 @@ The goals of the final projects are:
 
 	2. To give you a chance to apply some of the things we learned in this course.
 
+The idea is for your group to work as independently or with as much guidance
+as you prefer.
+
+If your group  prefers to work independetly,  great, each project notebook has some suggestions of things you might do, and
+some tools to get you started.
+
+If your group prefers to have some guidance from the instructiors,
+great, we are available to help.
 
 We have designed five different projects.  The idea is that you will work in small groups, as usual, on the projects.
 We are expecting you to spend about three hours on the project.
