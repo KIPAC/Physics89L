@@ -22,7 +22,7 @@ Let's see if we can break those two concept down into pieces.
 
 One of the figures we had showed waves that were oriented diagonally.
 
-[Waves](!diagonal_waves.png)
+![Waves](diagonal_waves.png)
 
 The bright bits might be places where the wave is higher, the dark bits where it is lower.
 
@@ -35,7 +35,7 @@ I.e., the wave numbers are 5 and 10, so we can combine them to get a wave vector
 
 We had a figure that looked like this:
 
-[Waves](!diagonal_wave_vector.png)
+![Wave vectors](diagonal_wave_vector.png)
 
 The reason that there are two points instead of just 1 is that we just as easily count have counted in other other directions,
 e.g., left-to-right instead of right-to-left.
