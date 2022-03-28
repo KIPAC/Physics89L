@@ -14,7 +14,7 @@ If you find yourself breaking one of these rules, please apologize, use it as a 
 
 ## Self-organized group learning
 
-You will be spending most of your time working in small groups in "breakout" rooms in zoom.  While each of you will have your own computer and will be working through the notebooks on your own, there will be many times when you are asked to discuss questions in the notebooks.
+You will be spending most of your time working in small groups.  While each of you will have your own computer and will be working through the notebooks on your own, there will be many times when you are asked to discuss questions in the notebooks.
 
 Small group discussions can be tricky.  There are many different ways that people discuss new ideas, some people are naturally quieter than others, some people express themselves in a few sentences, others take more time to express themselves.  Some people organize their thoughts while speaking, others people like to think things through before they start speaking.
 
