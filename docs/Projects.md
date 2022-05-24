@@ -26,14 +26,9 @@ We have posted examples of [slides](https://docs.google.com/document/d/10S9qiCLn
 Here are the 5 potential projects for you to choose from.  Also, if there is another topic that particularly interests you, you should feel free to
 propose your own project, keeping in mind that you should expect to spend about 3 hours on the project.
 
-Please use this sheet to express your interest in a particular project by next week.
-[Sign up sheet](https://docs.google.com/spreadsheets/d/12MT8zAYdLToVdNDRUBJxRjTfoQYo-oUP748JXoTYw_A/edit?usp=sharing)
+The projects will be due on the Friday, June 3rd.   We will use the final tuesday as an in-person office hours to allow you to work on the project or making up labs that you might have missed.
 
-We will use that to set up the breakout rooms for the final class sessions.
-
-The projects will be due on the Monday after the final class session
-(i.e., Monday, August 30).
-
+I will also have a number of zoom office hour slots for you to sign up for over that last week, for the same purpose.
 
 ### 1. Quantifying the "Hubble Tension"
 
