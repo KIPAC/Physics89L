@@ -10,10 +10,10 @@ Topics covered:
   * Survey of technology and software issues
   * Survey for office hours and instructor access
 * Course material
-  * [Measurements and simple statistics](#Measurements and simple statistics)
-  * [Scientific context](#Scientific context)
-  * [Python functions and tools reference](#Functions reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1RTjOCCsLfoN1M18KtLr6DxOT1FBVxqsSlBNswbc9nyE/edit?usp=sharing)
+  * [Measurements and simple statistics](Week1.html#measurements-and-simple-statistics)
+  * [Scientific context](Week1.html#scientific-context-and-resources)
+  * [Python functions and tools reference](Week1.html#python-functions-and-tools-reference)
+  * [Template for "report" questions](https://docs.google.com/document/d/1Tz93aCo4PUu9vHXFm_sgaC5onF1zDKzWY_SBdij6se4/edit?usp=sharing)
 
 
 ## Measurements and simple statistics
@@ -22,7 +22,7 @@ This week we are going to be discussing the idea of what it means to make a meas
 
 The statistics we will be covering are the mean, median, mode, standard deviation and standard error of a distribution.
 
-These topics are covered in chapters 1 and 2 of: "Measurements and Their Uncertainties : A Practical Guide to Modern Error Analysis" which is available online via the Stanford bookstore.  You don't need to read those chapters, but you may find them a useful reference, and they present the material in a somewhat different way than we will be presenting it, which you might find more intuitive.
+These topics are covered in chapters 1 and 2 of: "Measurements and Their Uncertainties : A Practical Guide to Modern Error Analysis" which is available online via the Stanford library.  You don't need to read those chapters, but you may find them a useful reference, and they present the material in a somewhat different way than we will be presenting it, which you might find more intuitive.
 
 
 ## Scientific context and resources
@@ -33,6 +33,8 @@ If you are interesting in learning more about the Hubble constant, the [wikipedi
 
 
 ## Python functions and tools reference
+
+Here is a list of python functions we will often use. You can always find more detail by reading the python library documentation. For example, [here](https://numpy.org/doc/stable/reference/generated/numpy.zeros.html) is the documentation on `numpy.zeros`.
 
 | Function Name            | What it does |
 | - | - |
