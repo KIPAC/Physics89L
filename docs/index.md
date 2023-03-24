@@ -40,9 +40,9 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 * Notes for Week 1: 
   * Topics: Introduction, histograms, descriptive statistics
   * [Background and reference](Week1.md)
-  * [Notebook 1: "Look at this figure"](../nb/01_01_Look%20At%20This%20Figure.ipynb)
-  * [Notebook 2: "Dice rolls and histograms"](../nb/01_02_Dice_Rolls_and_Histograms.ipynb)
-  * [Notebook 3: "Hubble constant measurements"](../nb/01_03_Hubble_Measurements.ipynb)
+  * [Notebook 1: "Look at this figure"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_01_Look%20At%20This%20Figure.ipynb)
+  * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
+  * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 
 ## Contact and Legal
 
