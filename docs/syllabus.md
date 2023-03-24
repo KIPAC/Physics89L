@@ -19,6 +19,8 @@ Students should be familiar with calculus concepts such as differentiation, inte
 
 - Instructor: Ann Wang (email: awang5@stanford.edu)
 - TAs:
+  * George Halal (email: georgech@stanford.edu)
+  * Drew Ames (email: dreames@stanford.edu)
 
 Students are encouraged to attend the instructors' office hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 
 
@@ -29,7 +31,7 @@ This is a 1-unit course. It is graded Satisfactory/No Credit. The class should t
 
 To receive credit, attendance and participation in each week's lab is expected. This includes arriving on time to class to participate in group work. Please speak to the instructor in advance if you have to miss a lab and we will schedule a session where you can make up the lab. 
 
-For each lab, there will be a report assigned. Each report will be graded out of 3, where 1 is unsatisfactory, 2 indicates that you were missing some concepts, and 3 indicates that you understood most or all of the material. A grade of 2 or higher for each lab report is required. Reports which receive a grade of 1 can be resubmitted for a regrade. Each report is due one week after the lab and should be submitted on the Canvas website.
+For each lab, there will be a report assigned. Each student must submit a report. Each report will be graded out of 3, where 1 is unsatisfactory, 2 indicates that you were missing some concepts, and 3 indicates that you understood most or all of the material. A grade of 2 or higher for each lab report is required. Reports which receive a grade of 1 can be resubmitted for a regrade. Each report is due one week after the lab and should be submitted on the Canvas website.
 
 The last two weeks of the course are set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive credit. 
 
@@ -66,3 +68,11 @@ If you have any concerns or questions, please don't hesitate to contact the inst
 
 ### Classroom expectations
 There will be a lot of discussion in this class. Students are expected to engage with others in a respectful manner. This includes thoughtfully sharing their ideas, but also listening to others' contributions. It is our highest priority that the classroom is a welcoming place to engage in academic discussions. Please read through this list of [guidelines](social.html).
+
+## Contact and Legal
+
+All materials Copyright 2021 Eric Charles, Ryan Linehan and Benjamin
+Navid Safvati and distributed for copying and extension under the
+GPLv3 License, unless otherwise noted.
+
+Mod. Physics 89L Spring 2023 Ann Wang

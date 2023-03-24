@@ -50,7 +50,7 @@ All materials Copyright 2021 Eric Charles, Ryan Linehan and Benjamin
 Navid Safvati and distributed for copying and extension under the
 GPLv3 License, unless otherwise noted.
 
-Adapted for Physics 89L Spring 2023 Ann Wang
+Mod. Physics 89L Spring 2023 Ann Wang
 
 If you have any feedback for us, please write us an issue.
 
