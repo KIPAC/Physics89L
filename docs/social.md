@@ -1,7 +1,7 @@
 
 ## Social rules and expectations
 
-Beyond the expectations that we will all treat each other with respect and make every effort to account for our different backgrounds, there are a few items specific to this course.
+There will be a lot of discussion in this class. Students are expected to engage with others in a respectful manner. This includes thoughtfully sharing their ideas, but also listening to others’ contributions. It is our highest priority that the classroom is a welcoming place to engage in academic discussions.
 
 To facilitate the most effective and inclusive learning environment by promoting deliberate exploration of what we don’t know, we have a few  “social rules”:
 
