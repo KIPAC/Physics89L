@@ -36,7 +36,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 * Getting Started
   * [Syllabus](syllabus.md)
   * [Software setup](setup.md)
-  * [Social rules and expectations](social.md)
+  * [Social guidelines and expectations](social.md)
 * Notes for Week 1: 
   * Topics: Introduction, histograms, descriptive statistics
   * [Background and reference](Week1.md)

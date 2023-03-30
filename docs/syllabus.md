@@ -31,9 +31,18 @@ This is a 1-unit course. It is graded Satisfactory/No Credit. The class should t
 
 To receive credit, attendance and participation in each week's lab is expected. This includes arriving on time to class to participate in group work. Please speak to the instructor in advance if you have to miss a lab and we will schedule a session where you can make up the lab. 
 
-For each lab, there will be a report assigned. Each student must submit a report. Each report will be graded out of 3, where 1 is unsatisfactory, 2 indicates that you were missing some concepts, and 3 indicates that you understood most or all of the material. A grade of 2 or higher for each lab report is required. Reports which receive a grade of 1 can be resubmitted for a regrade. Each report is due one week after the lab and should be submitted on the Canvas website.
+For each lab, there will be a report assigned that you will work through in class and finish after class. Each student must submit a report. Each report will be graded out of 3. The rubric is:
 
-The last two weeks of the course are set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive credit. 
+| Grade | Criteria |
+| ----- | -------- |
+|   0   | Assignment was not turned in or is largely incomplete |
+|   1   | Unclear responses or responses that do not address the question concept. Explanations demonstrate a lack of understanding of the concepts covered |
+|   2   | Detailed responses to questions, student demonstrates that they understand most (>70%) of the concepts covered |
+|   3   | Detailed responses to questions, student demonstrates clear understanding of all of the topics covered |
+
+An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade. Each report is due one week after the lab and should be submitted on the Canvas website.
+
+The last two weeks of the course are set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. 
 
 There is no required textbook for this course.
 
