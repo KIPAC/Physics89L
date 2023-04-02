@@ -134,11 +134,7 @@ You can run these notebooks using jupyter on the cloud if you run into issues in
 
 You can run the notebooks for week 1 by navigating to this site:
 
-https://mybinder.org/v2/gh/KIPAC/Physics89L/v0.0
-
-Similarly, the notebooks for week 2 are at:
-
-https://mybinder.org/v2/gh/KIPAC/Physics89L/v0.1
+https://mybinder.org/v2/gh/KIPAC/Physics89L/HEAD
 
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports. Please contact one of the instructors for help.
 
