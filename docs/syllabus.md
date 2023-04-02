@@ -47,7 +47,7 @@ The last two weeks of the course are set aside to work on a final project using 
 There is no required textbook for this course.
 
 ### Homework policy
-A one-week extension for one report will be accepted without any questions asked (just note it as such on the report). No other late reports will be accepted unless granted by an instructor or TA.
+A one-week extension for one report will be accepted without any questions asked (just note it as such on the report). Please also email us to tell us that you have submitted it so it doesn’t escape our notice. No other late reports will be accepted unless granted by an instructor or TA.
 
 ### Course schedule
 
