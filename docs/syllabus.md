@@ -40,7 +40,7 @@ For each lab, there will be a report assigned that you will work through in clas
 |   2   | Detailed responses to questions, student demonstrates that they understand most (>70%) of the concepts covered |
 |   3   | Detailed responses to questions, student demonstrates clear understanding of all of the topics covered |
 
-An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade. Each report is due one week after the lab and should be submitted on the Canvas website.
+An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade up to a week from when they were first graded. Please also email us to tell us that you have submitted it so it doesn't escape our notice. Each report is due one week after the lab and should be submitted on the Canvas website.
 
 The last two weeks of the course are set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. 
 
