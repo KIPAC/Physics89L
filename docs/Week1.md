@@ -29,7 +29,7 @@ These topics are covered in chapters 1 and 2 of: "Measurements and Their Uncerta
 
 We will be discussing measurements of the Hubble constant (also called the Hubble parameter).  It is a measure of the expansion of the universe, and is based on the observations that distant object are moving away from us at a rate that is very close to being proportional to their distance from us.
 
-If you are interesting in learning more about the Hubble constant, the [wikipedia page](https://en.wikipedia.org/wiki/Hubble%27s_law) about the Hubble constant is useful, but it is a bit technical in places.  On the other hand, most of the top hits with a web search, and many of the videos, have very clear explanations.
+If you are interested in learning more about the Hubble constant, the [wikipedia page](https://en.wikipedia.org/wiki/Hubble%27s_law) about the Hubble constant is useful, but it is a bit technical in places.  On the other hand, most of the top hits with a web search, and many of the videos, have very clear explanations.
 
 
 ## Python functions and tools reference
