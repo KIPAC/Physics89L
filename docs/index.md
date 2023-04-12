@@ -43,6 +43,11 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 1: "Look at this figure"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_01_Look%20At%20This%20Figure.ipynb)
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
+* Notes for Week 2: 
+  * Topics: Weighted averages and Poisson statistics
+  * [Background and reference](Week2.md)
+  * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
+  * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
 
 ## Contact and Legal
 
@@ -50,7 +55,7 @@ All materials Copyright 2021 Eric Charles, Ryan Linehan and Benjamin
 Navid Safvati and distributed for copying and extension under the
 GPLv3 License, unless otherwise noted.
 
-Mod. Physics 89L Spring 2023 Ann Wang
+Mod. Physics 89L Spring 2023 Ann Wang, George Halal, Drew Ames
 
 If you have any feedback for us, please write us an issue.
 
