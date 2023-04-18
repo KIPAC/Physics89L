@@ -48,6 +48,11 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week2.md)
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
+* Notes for Week 3: 
+  * Topics: Error propagation
+  * [Background and reference](Week3.md)
+  * [Notebook 1: "Propagation of errors"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_01_Propagation_of_errors.ipynb)
+  * [Notebook 2: "More propagation of errors"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Error_Propagation.ipynb)
 
 ## Contact and Legal
 
