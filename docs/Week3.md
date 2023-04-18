@@ -2,14 +2,11 @@
 
 Topics covered:
 
-* Announcements and information
-  * "Answers" to questions from week 2 Lab.  Comments [here](Week2_after.md)
-
 * Course material
   * [Data analysis topics](#Data%20analysis,%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1s0Zv_kr7vmFp90v8mqcsQXw4wKxGXOViK-VJ_cjVTGk/edit?usp=sharing)
+  * [Template for "report" questions](https://docs.google.com/document/d/1oEvpbIuJRRgsAXZ_E1DFt__JN3aqIly_LKNi146oe1Q/edit)
 
 ## Data analysis topics
 
@@ -31,7 +28,6 @@ distances to faraway galaxies.
 
 We will also briefly mention the gamma-ray pulsar, [Vela](https://en.wikipedia.org/wiki/Vela_Pulsar), which we will
 be seeing more of next week.
-
 
 
 ## Python functions reference
