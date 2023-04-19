@@ -29,7 +29,7 @@ This is a 1-unit course. It is graded Satisfactory/No Credit. The class should t
 - 80 minutes in class per week
 - About 1.5 hours on lab reports outside of class
 
-To receive credit, attendance and participation in each week's lab is expected. This includes arriving on time to class to participate in group work. Please speak to the instructor in advance if you have to miss a lab and we will schedule a session where you can make up the lab. 
+To receive credit, attendance and participation in each week's lab is expected. This includes arriving on time to class to participate in group work.
 
 For each lab, there will be a report assigned that you will work through in class and finish after class. Each student must submit a report. Each report will be graded out of 3. The rubric is:
 
@@ -42,12 +42,21 @@ For each lab, there will be a report assigned that you will work through in clas
 
 An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade up to a week from when they were first graded. Please also email us to tell us that you have submitted it so it doesn't escape our notice. Each report is due one week after the lab and should be submitted on the Canvas website.
 
+
 The last two weeks of the course are set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. 
 
 There is no required textbook for this course.
 
 ### Homework policy
 A one-week extension for one report will be accepted without any questions asked (just note it as such on the report). Please also email us to tell us that you have submitted it so it doesn’t escape our notice. No other late reports will be accepted unless granted by an instructor or TA.
+
+### Attendance policy
+If you anticipate an absence:
+
+- Email us as soon as you know. You’re still responsible for completing the lab by the due date unless you are using it as your one allowed late homework.
+- Attending the other section is fine and does not count as an absence, just email a member of the teaching staff in advance to let us know. That way we can make sure your homework isn’t marked late.
+
+If you can’t attend the other section, you are allowed one absence. You can complete the lab independently and submit by the due date. You will be deducted one point, so the maximum grade you can receive for the lab is a 2. Any further absences will result in a maximum grade of 1 for that week and are not eligible for regrades. You still must complete each lab to receive credit for this class.
 
 ### Course schedule
 
