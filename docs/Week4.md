@@ -2,15 +2,11 @@
 
 Topics covered: Gaussian distribution and p-values.
 
-* Announcements and information
-  * Please take 2 minutes to fill out the very short 4 questions course feedback form on canvas.   
-  * Follow up from week 3 Lab.  Comments [here](Week3_after.md)
-
 * Course material
   * [Data analysis topics](#Data%20analysis,%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1Sgd8d8SA93lv9McCVPVkYml5q3eHGa8DJTwjV7X0WAY/edit?usp=sharingxs)
+  * [Template for "report" questions](https://docs.google.com/document/d/1PRAfG7BCHlPPmUgr68LhfN-57YYKz34O4-NEn_hKcUk/edit?usp=sharing)
 
 ## Data analysis topics
 
