@@ -2,9 +2,6 @@
 
 Topics covered: Covariance, correlation, and chi-square fitting.
 
-* Announcements and information
-  * Follow up from week 4 Lab.  Comments [here](Week4_after.md)
-
 * Course material
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
