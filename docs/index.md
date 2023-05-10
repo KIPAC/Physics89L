@@ -59,11 +59,18 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week4.md)
   * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
   * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
+  
 * Notes for Week 5: 
   * Topics: Covariance, correlation, chi-square fitting
   * [Background and reference](Week5.md)
   * [Notebook 1: "Correlations"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_01_Correlations.ipynb)
   * [Notebook 2: "Fitting a line to data"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
+
+* Notes for Week 6: 
+  * Topics: Minimizers and fitting
+  * [Background and reference](Week6.md)
+  * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
+  * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
 ## Contact and Legal
 

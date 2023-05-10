@@ -2,14 +2,11 @@
 
 Topics covered: Least-squares fitting with a function minimizer.
 
-* Announcements and information
-  * Follow up from week 5 Lab.  Comments [here](Week5_after.md)
-
 * Course material
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/19mRvJSlbUk6q--IAmry5HzSBmCo70HUEfH-9e6g_VHA/edit?usp=sharing)
+  * [Template for "report" questions](https://docs.google.com/document/d/1rKwI8zIhoj7zSRdIGAYcBkfRnCz1eIrEYE6lMJRqYkU/edit)
 
 ## Data analysis topics
 
@@ -30,9 +27,13 @@ This week we are going to use an algorithm that finds the set of parameters that
 
 There are a number of different algorithms that can find the parameters that minimize the `chi**2`.  What they have in common is that
 they start out with an initial guess, and then try to improve on that guess until they believe that they are very close to the best
-solution.  The details of how the algorithm works are well beyond the scope of this class, but this is a very useful tool to be familiar with.
+solution.  
 
-<img src="./fitter.png" width=40%>
+One of the most basic algorithms is the [Nelder-Mead](https://en.wikipedia.org/wiki/Nelder–Mead_method) algorithm, which calculates the function values at different points of a "simplex". A simplex in 2D space is just a triangle. The algorithm is initialized with three points, which define the triangle. For each step of the algorithm, the function values at the triangle vertices are calculated. The algorithm then evaluates nearby points, and then the point with the largest value of the function is then updated with a nearby point to define a new triangle. This is repeated until the criteria for "convergence" is reached.
+
+Other minimization algorithms also make use of the first and second derivatives of the function with respect to the parameters. This gives you information about the shape of the function and which direction to "step" to find a minimum. These are often referred to as gradient-descent and Newton methods. The details of how these algorithm work are well beyond the scope of this class, but this is a very useful tool to be familiar with.
+
+![fitter](fitter.png)
 
 ## Scientific context and resources
 
@@ -55,11 +56,11 @@ Here is a picture of one such aluminum plate:
 
 Here are a couple of spectra:
 
-<img src="./sdss_spec_1.png" width=40%><img src="./sdss_spec_2.png" width=40%>
+![sdss1](sdss_spec_1.png)
+![sdss2](sdss_spec_2.png)
 
 The figures have been helpfully annotated, showing the lines that correspond to particular atomic transitions.  By comparing
-the measured wavelength of the lines with the know emission wavelength we can measure the dopper shift for each object.
-
+the measured wavelength of the lines with the know emission wavelength we can measure the Dopper shift for each object.
 
 
 ## Python functions reference
