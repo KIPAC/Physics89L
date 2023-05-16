@@ -2,14 +2,11 @@
 
 Topics covered: Data selection, efficiency, leakage, and rare event searches
 
-* Announcements and information
-  * Follow up from week 6 Lab.  Comments [here](Week6_after.md)
-
 * Course material
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1LnjMP2Rsgd3L5YE67NO0wfJBsKcGmIN_DyN75Z2PC2w/edit?usp=sharing)
+  * [Template for "report" questions](https://docs.google.com/document/d/1hG0un74E4fElL56PDrtd_vQjWH_yIjAoBeaJvKK4hk8/edit#heading=h.ahqsgoshukd6)
 
 ## Data analysis topics
 
