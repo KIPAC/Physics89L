@@ -72,6 +72,12 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
+* Notes for Week 7: 
+  * Topics: Data selection, efficiency, leakage, and rare event searches
+  * [Background and reference](Week7.md)
+  * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
+  * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
+
 ## Contact and Legal
 
 All materials Copyright 2021 Eric Charles, Ryan Linehan and Benjamin
