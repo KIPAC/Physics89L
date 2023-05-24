@@ -1,4 +1,4 @@
-# Introduction to Laboratory Physics
+# Introduction to Laboratory PhysicsA
 
 These are course notes and resources for Physics 89L (formerly 67), Introduction to Laboratory Physics
 
@@ -77,6 +77,12 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Background and reference](Week7.md)
   * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
+
+* Notes for Week 8: 
+  * Topics: Frequency analysis
+  * [Background and reference](Week8.md)
+  * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
+  * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
 ## Contact and Legal
 
