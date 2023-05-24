@@ -1,4 +1,4 @@
-# Introduction to Laboratory PhysicsA
+# Introduction to Laboratory Physics
 
 These are course notes and resources for Physics 89L (formerly 67), Introduction to Laboratory Physics
 
