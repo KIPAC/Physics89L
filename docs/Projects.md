@@ -1,99 +1,68 @@
 # Final projects
 
-The goals of the final projects are:
+### Introduction
 
-	1. To give you an opportunity to follow up on a topic that we covered that interested you.
-	   That could be either some methodology, or a scientific topic.
+The final projects are intended to allow you to use concepts learned in the course to investigate scientific data. We have a number of template projects, or you can design your own project. 
 
-	2. To give you a chance to apply some of the things we learned in this course.
+Some expectations:
 
-The idea is for your group to work as independently or with as much guidance
-as you prefer.
+     * We expect you to work in small groups of 2-3 people.
+     * The project should incorporate data analysis techniques that we have learned in the course.
+     * Each person should complete a written report describing the project. Be sure to use your own words.
 
-If your group  prefers to work independetly,  great, each project notebook has some suggestions of things you might do, and
-some tools to get you started.
+Here is an [example of a report](https://docs.google.com/document/d/1MeSbCnUD5K59x8MxWHDlbD8NzsdJ8unAR3s6XQDBEiw/edit?usp=sharing). The report should be 2-3 pages and include any plots and numbers that you produced in the project. Please be sure to explain each plot and the purpose/context behind each step. Please describe the data you used as well.
 
-If your group prefers to have some guidance from the instructiors,
-great, we are available to help.
+You are definitely encouraged to design your own project, but please speak to us (the teaching staff) about it at the beginning of class. It should be of similar length to the template projects to receive full credit. We estimate that the project should take 3-4 hours in total, including time to write the report.
 
-We have designed five different projects.  The idea is that you will work in small groups, as usual, on the projects.
-We are expecting you to spend about three hours on the project.
-Try and get all of the analysis that you need to do done in class.  Then spend another hour and a half
-putting together 3 or 4 simple slides and a half page of write-up describing what you did.
+For each project, we have provided you with most of the necessary code in some form, which you will need to adapt. Some projects more programming knowledge than others (explanations below). Please don't hesitate to ask us for assistance with the code or the concepts!
 
-We have posted examples of [slides](https://docs.google.com/document/d/10S9qiCLn2xp8Wg3LyjUd0w6JLZew30ZwEcc3emNfw9Q/edit?usp=sharing) and of the [write up](https://docs.google.com/presentation/d/1ueCFssD_V3Nl9JXZN-YCIh2uc18UMgXUK5NizApxk_s/edit?usp=sharing).
+### Template projects
+Here is a description of the four template projects available:
 
-Here are the 5 potential projects for you to choose from.  Also, if there is another topic that particularly interests you, you should feel free to
-propose your own project, keeping in mind that you should expect to spend about 3 hours on the project.
+#### 1. Quantifying the "Hubble Tension"
 
-The projects will be due on the Friday, June 3rd.   We will use the final tuesday as an in-person office hours to allow you to work on the project or making up labs that you might have missed.
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Hubble_Tension.ipynb)
 
-I will also have a number of zoom office hour slots for you to sign up for over that last week, for the same purpose.
+- In the first couple weeks of the class we saw that the measurements of the Hubble parameter were not distributed as a Gaussian. This project involves investigating the difference between two techniques used to measure the Hubble parameter, and evaluating if these two techniques are giving consistent results.
 
-### 1. Quantifying the "Hubble Tension"
+- This project requires a limited amount of programming, and it will ask you to apply concepts from this course to quantify the significance of how consistent measurements are.
 
-[Notebook](Project_Hubble_Tension.ipynb)
+#### 2. Gaining a deeper understanding of fitting model parameters
 
-In the first couple weeks of the class we saw that the measurements or the Hubble parameters weren't really distributed as a Gaussian.
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Fitting_Deep_Dive.ipynb)
 
-This project will look more into that question, and in particular you will separate measurements done with two different types of techniques and
-ask if the two techniques seem to be giving constant results.
+- In this project you will go back to the Vela pulsar data, and you will study the process of fitting the model parameters in more mathematical detail. This will help you to understand the mathematical relationships between some of the statistics that we studied in this course.
 
-This project requires very little in the way or programing skills or math skills, but will require you to apply concepts from this course to
-quantify the significance of your results.
+- This project requires you to program a few of your own functions and to take partial derivatives. It will explore the fitting concepts by asking you to analytically solve for the best fit value of a fitted model parameter.
 
-### 2. A deeper dive in model fitting.
+#### 3. A search for the Higgs boson
 
-[Notebook](Project_Fitting_Deep_Dive.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Higgs_Search.ipynb)
 
-In this project you will go back to the Vela puslar data, and you will study the process of fitting the model parameters in more detail.
-This will help you to understand relationships between some of the statistics that we studied in this course.
+- This project is similar to the dark matter search, but instead you will be looking evidence of a new particle in collisions at the Large Hadron Collider. 
 
-This project doesn't require much programming, but will require more math, and you will be taking a very close look at the concepts of chi-squared,
-and using inverse variance weighting to combine measurements.
+- This project includes understanding a lot of code, but most of it is written for you, so it requires very little programming from scratch. It will explore concepts of statistical significance and how to design a sensitive search for a new particle.
 
+#### 5. A search for exoplanets using Fourier analysis
 
-### 3. Writing an algorithm to derive initial guesses for model parameters when fitting SDSS spectral lines.
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Exoplanet.ipynb)
 
-[Notebook](Project_SDSS_Line_Fit_Algo.ipynb)
+- This project will incorporate Fourier techniques to look for exoplanets, and how noise and limited statistics can affect teh strength of a signal.
 
-In week 6 we did a notebook where we fit spectral lines from SDSS data.  In the notebook we guessed initial values for the fit parameters by hand.
-The last question in the notebook asked you to suggest and algorithm to estimate the initial values.  This project follows up on that, giving you a
-chance to implement your ideas.
-
-This project requires some programming, but is more practical and doesn't require you to use the concept we learned in the course as much as some of
-the other projects.
+- This project requires some programming. It will explore concepts of statistical significance.  
 
 
-### 4. A "Higgs search".  Searching for a signal peak on top of background. 
+### Grading rubric
 
-[Notebook](Project_Higgs_Search.ipynb)
+- The project will be graded out of 3, and will use a similar rubric to the lab reports. It will be weighted as 2 lab reports.
+- Projects will be due on Friday, June 9.
+- No late projects will be accepted without prior approval.
+- A reminder that an average grade of 2 or above, averaged over all of the assignments, is required to receive credit for the course. All labs **must be completed**, regardless of your average grade.
 
-This project is similar to the work you did in week 7, except that instead of looking for a few rare events, you will be fitting for a small excess
-signal on top of a large background.  Also, in this case, the signal peak is defined as events that lie close to a particular value (i.e., the mass
-of the Higgs particle), while the background is randomly distributed across a large band.
+| Grade | Criteria |
+| ----- | -------- |
+|   0   | Project was not turned in or is largely incomplete |
+|   1   | Project does not demonstrate thorough application of data analysis techniques learned in the course. Unclear or excessively brief explanations of figures, numbers, and/or statistical conclusions. Explanations may demonstrate a lack of understanding of the data analysis concepts. |
+|   2   | Project has clear objectives that incorporate data analysis techniques learned in the course. Report has detailed explanations of figures, numbers, and/or statistical conclusions. Student demonstrates that they understand most (>70%) of concepts covered in the project |
+|   3   | Project has clear objectives that incorporate data analysis techniques learned in the course. Report has detailed explanations of figures, numbers, and/or statistical conclusions. Student demonstrates clear understanding of concepts covered in the project |
 
-This project will some programing, though not as much as project 3.  It will also require to apply concepts from the course to quantify the significance
-of your result.
-
-
-### 5. An expolant search.  Searching for a signal in the frequency domain. 
-
-[Notebook](Project_Exoplanet.ipynb)
-
-This project is similar to the stuff we will be doing in week 8.  Except that you will be trying to extract a signal from an idealized version of
-data that you might obtain when looking for exoplanets.
-
-This project will some programing, though not as much as project 3.  It will also require to apply concepts from the course to quantify the significance
-of your result.
-
-
-
-
-
-
-
-
-
-<!--  LocalWords:  expolant
- -->
