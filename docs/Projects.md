@@ -43,13 +43,13 @@ Here is a description of the four template projects available:
 
 - This project includes understanding a lot of code, but most of it is written for you, so it requires very little programming from scratch. It will explore concepts of statistical significance and how to design a sensitive search for a new particle.
 
-#### 5. A search for exoplanets using Fourier analysis
+#### 4. A search for exoplanets using Fourier analysis
 
 - [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Exoplanet.ipynb)
 
-- This project will incorporate Fourier techniques to look for exoplanets, and how noise and limited statistics can affect teh strength of a signal.
+- This project will incorporate Fourier techniques to look for exoplanets. You will be asked to explore how noise and limited statistics can affect the strength of a periodic signal.
 
-- This project requires some programming. It will explore concepts of statistical significance.  
+- This project requires a limited amount of programming. It will explore concepts of statistical significance and Fourier transforms.  
 
 
 ### Grading rubric
