@@ -11,7 +11,7 @@ We will be using public data relating to a number of topics in modern physics to
 
 ### Lab Sessions
 
-This class will meet for 10 weeks.  Each week we will meet for an 90 minute lab-like class session.  You will spend most of the time in those session working through some data analysis exercises in the form of [Jupyter](https://jupyter.org/) notebooks.  The notebooks include a number of questions.  Your assignment will be to answer those questions in a short "lab report".  You will have the choice to either finish the lab reports after class, or to hand them in at any time in the week after the class. 
+This class will meet for 10 weeks.  Each week we will meet for an 80 minute lab-like class session.  You will spend most of the time in those session working through some data analysis exercises in the form of [Jupyter](https://jupyter.org/) notebooks.  The notebooks include a number of questions.  Your assignment will be to answer those questions in a short "lab report".  You will have the choice to either finish the lab reports after class, or to hand them in at any time in the week after the class. 
 
 The class breakdown will look something like this:
 
@@ -29,7 +29,7 @@ The class breakdown will look something like this:
 
 The last two weeks of the class will be devoted to working on presenting a short (2 or 3 slide) talk that follows up on some data analysis from one of the topics that we covered in the course.
 
-Week 9 will be a chance to work on the data analysis and start to organize your slides.  Week 10 will be devoted to finishing up your slides.
+Week 9 will be a chance to work on the data analysis and start to organize your slides.  Week 10 will not have a regular class meeting given the shortened week, and instead the usual Wednesday class meeting will serve as extra Open-Door Hours for you to get advice/help from the teaching staff.
 
 
 
