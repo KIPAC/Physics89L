@@ -12,9 +12,9 @@ Some expectations:
 
 Here is an [example of a report](https://docs.google.com/document/d/1MeSbCnUD5K59x8MxWHDlbD8NzsdJ8unAR3s6XQDBEiw/edit?usp=sharing). The report should be 2-3 pages and include any plots and numbers that you produced in the project. Please be sure to explain each plot and the purpose/context behind each step. Please describe the data you used as well. If you don't have a group, please contact on of the teaching staff as soon as possible.
 
-You are definitely encouraged to design your own project, but please speak to us (the teaching staff) about it at the beginning of class. It should be of similar length to the template projects to receive full credit. We estimate that the project should take 3-4 hours in total, including time to write the report.
+You are definitely encouraged to design your own project, but please speak to us (the teaching staff) about it at the beginning of class. It should be of similar length to the template projects to receive full credit. We estimate that the project should take 5-6 hours in total, including time to write the report.
 
-For each project, we have provided you with most of the necessary code in some form, which you will need to adapt. Some projects more programming knowledge than others (explanations below). Please don't hesitate to ask us for assistance with the code or the concepts!
+For each project, we have provided you with most of the necessary code in some form, which you will need to adapt. Some projects require more programming knowledge than others (explanations below). Please don't hesitate to ask us for assistance with the code or the concepts!
 
 ### Template projects
 Here is a description of the four template projects available:
@@ -55,7 +55,7 @@ Here is a description of the four template projects available:
 ### Grading rubric
 
 - The project will be graded out of 3, and will use a similar rubric to the lab reports. It will be weighted as 2 lab reports.
-- Projects will be due on Friday, June 9.
+- Projects will be due on Friday, June 7.
 - No late projects will be accepted without prior approval.
 - A reminder that an average grade of 2 or above, averaged over all of the assignments, is required to receive credit for the course. All assignments **must be completed**, regardless of your average grade.
 

@@ -95,6 +95,8 @@ GPLv3 License, unless otherwise noted.
 
 Mod. Physics 89L Spring 2023 Ann Wang, George Halal, Drew Ames
 
+Mod. Physics 89L Spring 2024 Charles Blakemore
+
 If you have any feedback for us, please write us an issue.
 
 <!--  LocalWords:  jupyter setup.md Linehan

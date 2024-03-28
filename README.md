@@ -6,7 +6,7 @@ Each week you will be working through 1-3 notebooks during the lab time, and the
 
 This github repository contains the notebooks that you will be using, as well as the data and figures that you will need to run those notebooks.
 
-For up-to-date information, please go to the [website](https://kipac.github.io/Physics89L/)
+For up-to-date information, please go to the [website](https://KIPAC.github.io/Physics89L/)
 
 ## Running these notebooks on your computer
 
@@ -51,7 +51,8 @@ You can also use the service "binder" to run the notebooks on a remote server on
 1. Go to https://mybinder.org/
 2. Type "KIPAC/Physics89L" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
 
+<!---
 ### Opening a Notebooks in your brower
 
 One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (What this is depends a bit on which 
-
+--->
