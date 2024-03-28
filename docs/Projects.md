@@ -21,7 +21,7 @@ Here is a description of the four template projects available:
 
 #### 1. Quantifying the "Hubble Tension"
 
-- [Notebook](https://github.com/charlesblakemore/Physics89L/blob/main/nb/Project_Hubble_Tension.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Hubble_Tension.ipynb)
 
 - In the first couple weeks of the class we saw that the measurements of the Hubble parameter were not distributed as a Gaussian. This project involves investigating the difference between two techniques used to measure the Hubble parameter, and evaluating if these two techniques are giving consistent results.
 
@@ -29,7 +29,7 @@ Here is a description of the four template projects available:
 
 #### 2. Gaining a deeper understanding of fitting model parameters
 
-- [Notebook](https://github.com/charlesblakemore/Physics89L/blob/main/nb/Project_Fitting_Deep_Dive.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Fitting_Deep_Dive.ipynb)
 
 - In this project you will go back to the Vela pulsar data, and you will study the process of fitting the model parameters in more mathematical detail. This will help you to understand the mathematical relationships between some of the statistics that we studied in this course.
 
@@ -37,7 +37,7 @@ Here is a description of the four template projects available:
 
 #### 3. A search for the Higgs boson
 
-- [Notebook](https://github.com/charlesblakemore/Physics89L/blob/main/nb/Project_Higgs_Search.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Higgs_Search.ipynb)
 
 - This project is similar to the dark matter search, but instead you will be looking evidence of a new particle in collisions at the Large Hadron Collider. 
 
@@ -45,7 +45,7 @@ Here is a description of the four template projects available:
 
 #### 4. A search for exoplanets using Fourier analysis
 
-- [Notebook](https://github.com/charlesblakemore/Physics89L/blob/main/nb/Project_Exoplanet.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Exoplanet.ipynb)
 
 - This project will incorporate Fourier techniques to look for exoplanets. You will be asked to explore how noise and limited statistics can affect the strength of a periodic signal.
 

@@ -40,49 +40,49 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 * Notes for Week 1: 
   * Topics: Introduction, histograms, descriptive statistics
   * [Background and reference](Week1.md)
-  * [Notebook 1: "Look at this figure"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/01_01_Look%20At%20This%20Figure.ipynb)
-  * [Notebook 2: "Dice rolls and histograms"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
-  * [Notebook 3: "Hubble constant measurements"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
+  * [Notebook 1: "Look at this figure"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_01_Look%20At%20This%20Figure.ipynb)
+  * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
+  * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 * Notes for Week 2: 
   * Topics: Weighted averages and Poisson statistics
   * [Background and reference](Week2.md)
-  * [Notebook 1: "Hubble constant uncertainties"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
-  * [Notebook 2: "Counting muons"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
+  * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
+  * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
 * Notes for Week 3: 
   * Topics: Error propagation
   * [Background and reference](Week3.md)
-  * [Notebook 1: "Propagation of errors"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/03_01_Propagation_of_errors.ipynb)
-  * [Notebook 2: "More propagation of errors"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/03_02_More_Error_Propagation.ipynb)
+  * [Notebook 1: "Propagation of errors"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_01_Propagation_of_errors.ipynb)
+  * [Notebook 2: "More propagation of errors"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Error_Propagation.ipynb)
 
 * Notes for Week 4: 
   * Topics: Gaussians and p-values
   * [Background and reference](Week4.md)
-  * [Notebook 1: "Let's make a Gaussian"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
-  * [Notebook 2: "Vela pulsar"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
+  * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
+  * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
   
 * Notes for Week 5: 
   * Topics: Covariance, correlation, chi-square fitting
   * [Background and reference](Week5.md)
-  * [Notebook 1: "Correlations"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/05_01_Correlations.ipynb)
-  * [Notebook 2: "Fitting a line to data"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
+  * [Notebook 1: "Correlations"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_01_Correlations.ipynb)
+  * [Notebook 2: "Fitting a line to data"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
 
 * Notes for Week 6: 
   * Topics: Minimizers and fitting
   * [Background and reference](Week6.md)
-  * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
-  * [Notebook 2: "SDSS Spectra"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
+  * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
+  * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
 * Notes for Week 7: 
   * Topics: Data selection, efficiency, leakage, and rare event searches
   * [Background and reference](Week7.md)
-  * [Notebook 1: "Optimizing selections"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
-  * [Notebook 2: "Performing a dark matter search"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
+  * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
+  * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 
 * Notes for Week 8: 
   * Topics: Frequency analysis
   * [Background and reference](Week8.md)
-  * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
-  * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/charlesblakemore/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
+  * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
+  * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
 * Final Projects:
   * [Overview](Projects.md)

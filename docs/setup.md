@@ -75,7 +75,7 @@ You can find instructions on how to install git [here](https://git-scm.com/book/
 
 Once you have installed git, from a terminal window you can do:
 
-`git clone https://github.com/charlesblakemore/Physics89L`
+`git clone https://github.com/KIPAC/Physics89L`
 
 to install the repository on your computer.
 
@@ -95,7 +95,7 @@ The github desktop app is both a nice tool to interface with git, and a way to u
 
 1. Install the github desktop app from here: https://desktop.github.com/
 2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
-3. Type in 'charlesblakemore/Physics89L' into the test box and select "Clone Repository..." from the pull down menu
+3. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the pull down menu
 4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics89L"
 5. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
 6. This will show all the changes that you have made to your local version.  Git allows you do to many things, such as saving your local version and keeping track of the differences, but the simplest thing to do is either rename the files that you have changed or just to right-click on the little box next to the each file and select "Discard Changes"
@@ -104,7 +104,7 @@ The github desktop app is both a nice tool to interface with git, and a way to u
 
 If you don't want to use git, you can always just download a snapshot of the repository each week before class.
 
-Go to https://github.com/charlesblakemore/Physics89L and click on the green "Code" button in and select "Download ZIP" from the drop-down menu.
+Go to https://github.com/KIPAC/Physics89L and click on the green "Code" button in and select "Download ZIP" from the drop-down menu.
 
 Note that this will download the current version of the repository, so you will want to do this each week before class.  You probably want to save the older version first so that you can refer to previous work.
 
@@ -124,7 +124,7 @@ To test your setup, navigate to "nb" folder of this repository and run the "Test
 
 If you click on the "Run" button twice, and you have everything set up correctly you should see a plot that looks like this:
 
-[It Works](https://github.com/charlesblakemore/Physics89L/blob/main/nb/figures/it_works.png)
+[It Works](https://github.com/KIPAC/Physics89L/blob/main/nb/figures/it_works.png)
 
 You can also run each individual "cell" by clicking on it and typing `Shift+Enter`.
 
@@ -134,7 +134,7 @@ You can run these notebooks using jupyter on the cloud if you run into issues in
 
 You can run the notebooks for week 1 by navigating to this site:
 
-https://mybinder.org/v2/gh/charlesblakemore/Physics89L/HEAD
+https://mybinder.org/v2/gh/KIPAC/Physics89L/HEAD
 
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports. Please contact one of the instructors for help.
 
