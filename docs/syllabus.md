@@ -17,12 +17,12 @@ Students should be familiar with calculus concepts such as differentiation, inte
 
 ### Contact information
 
-- Instructor: Ann Wang (email: awang5@stanford.edu)
+- Instructor: Charles Blakemore (email: cblakemore@stanford.edu)
 - TAs:
-  * George Halal (email: georgech@stanford.edu)
-  * Drew Ames (email: dreames@stanford.edu)
+  * Sephora Ruppert (email: sephora@stanford.edu)
+  * Eleanor Weckworth (email: eweck@stanford.edu)
 
-Students are encouraged to attend the instructors' office hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 
+Students are encouraged to attend the instructors' Open Door Hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 
 
 ### Course Expectations and Grading
 This is a 1-unit course. It is graded Satisfactory/No Credit. The class should take about 3 hours per week of your time. This includes:
@@ -43,7 +43,7 @@ For each lab, there will be a report assigned that you will work through in clas
 An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade up to a week from when they were first graded. Please also email us to tell us that you have submitted it so it doesn't escape our notice. Each report is due one week after the lab and should be submitted on the Canvas website.
 
 
-The last two weeks of the course are set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. 
+Week 9 of the course is set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. Week 10 ends on a Wednesday, and so we will not have a regular class meeting for either section. Instead, the usual Wednesday section will serve as extra Open-Door Hours for you to get advice or help on your final project. 
 
 There is no required textbook for this course.
 
@@ -54,24 +54,24 @@ A one-week extension for one report will be accepted without any questions asked
 If you anticipate an absence:
 
 - Email us as soon as you know. You’re still responsible for completing the lab by the due date unless you are using it as your one allowed late homework.
-- Attending the other section is fine and does not count as an absence, just email a member of the teaching staff in advance to let us know. That way we can make sure your homework isn’t marked late.
+- Attending the other section should usually be fine and does not count as an absence, just email a member of the teaching staff in advance to let us know. The Thursday evening section is very full and will not be able to accomodate regular swapping.
 
-If you can’t attend the other section, you are allowed one absence. You can complete the lab independently and submit by the due date. You will be deducted one point, so the maximum grade you can receive for the lab is a 2. Any further absences will result in a maximum grade of 1 for that week and are not eligible for regrades. You still must complete each lab to receive credit for this class.
+If you can’t attend the other section, you are allowed one absence. You can complete the lab independently and submit by the due date. You will be deducted one point, so the maximum grade you can receive for that lab is a 2. Any further absences will result in a maximum grade of 1 for that week and are not eligible for regrades. You still must complete each lab to receive credit for this class.
 
 ### Course schedule
 
 | Week No. | Week | Topic |
 | -------- | ---- | ----- |
-| 1 | 04/03--04/07 | Introduction, histograms, descriptive statistics |
-| 2 | 04/10--04/14 | Weighted averages, variance |
-| 3 | 04/17--04/21 | Error propagation | 
-| 4 | 04/24--04/28 | Gaussian distributions, statistical significance |
-| 5 | 05/01--05/05 | Covariance matrix, simple fitting |
-| 6 | 05/08--05/12 | Fitting a model |
-| 7 | 05/15--05/19 | Distinguishing signal from background |
-| 8 | 05/22--05/26 | Frequency analysis |
-| 9 | 05/29--06/02 | Final project work | 
-| 10 | 06/05--06/09 | Final project work | 
+| 1 | 04/01--04/05 | Introduction, histograms, descriptive statistics |
+| 2 | 04/08--04/12 | Weighted averages, variance |
+| 3 | 04/15--04/19 | Error propagation | 
+| 4 | 04/22--04/26 | Gaussian distributions, statistical significance |
+| 5 | 04/29--05/03 | Covariance matrix, simple fitting |
+| 6 | 05/06--05/10 | Fitting a model |
+| 7 | 05/13--05/17 | Distinguishing signal from background |
+| 8 | 05/20--05/24 | Frequency analysis |
+| 9 | 05/27--06/31 | Final project work | 
+| 10 | 06/03--06/05 | Final project work |
 
 ### Honor code
 The Stanford Honor code is found [here](https://communitystandards.stanford.edu/policies-guidance/honor-code). We expect that students abide by the honor code.
@@ -94,3 +94,5 @@ Navid Safvati and distributed for copying and extension under the
 GPLv3 License, unless otherwise noted.
 
 Mod. Physics 89L Spring 2023 Ann Wang
+
+Mod. Physics 89L Spring 2024 Charles Blakemore

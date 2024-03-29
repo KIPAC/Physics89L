@@ -30,8 +30,8 @@ We are going to be continuing to work with the set of measurements of the Hubble
 | array.size               | return the number of elements in an array |
 | array.shape              | return the shape of an array, i.e., arrays can have more that one dimension and this function tells you  the shape of the array.  The size of the array is the product of the size of all the axes of the array |
 | plt.legend               | Attach a legend to a figure |
-|    rng.poisson(λ)        | Draw a random number from a Poisson distribution with mean λ|
-|    scipy.stats.poisson.pmf(x, λ)           | Get the Poisson probability density function with mean λ for given x values  |
+| rng.poisson(λ)           | Draw a random number from a Poisson distribution with mean λ|
+| scipy.stats.poisson.pmf(x, λ)           | Get the Poisson probability density function with mean λ for given x values  |
 
 <!--  LocalWords:  numpy.var plt.imshow plt.colorbar plt.legend
  -->
