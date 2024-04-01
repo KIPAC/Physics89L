@@ -1,6 +1,6 @@
-# Introduction to Laboratory Physics
+# Introduction to Data Analysis, With Python and Jupyter
 
-These are course notes and resources for Physics 89L (formerly 67), Introduction to Laboratory Physics
+These are course notes and resources for Physics 89L (formerly 67), Introduction to Data Analysis, With Python and Jupyter
 
 ## Course Descriptions
 
