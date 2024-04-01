@@ -1,4 +1,4 @@
-# Setting up your computer for Physics 67
+# Setting up your computer for Physics 89L
 
 We will be using [Jupyter notebooks](https://jupyter.org/) with the interactive [IPython](http://ipython.org/) environment to do the labs in this course. [This](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html) is a good resource on what a jupyter notebook is. Please follow the instructions on this page to set up the software needed to run these jupyter notebooks.
 
