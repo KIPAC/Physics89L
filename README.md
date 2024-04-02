@@ -51,7 +51,8 @@ You can also use the service "binder" to run the notebooks on a remote server on
 1. Go to https://mybinder.org/
 2. Type "KIPAC/Physics89L" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
 
-### Opening a Notebooks in your brower
+### Opening a Notebook in your browser
 
-One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  <!--- (What this is depends a bit on which --->
+One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  
+<!--- (What this is depends a bit on which --->
 
