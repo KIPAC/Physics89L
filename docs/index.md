@@ -40,6 +40,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 1: 
   * Topics: Introduction, histograms, descriptive statistics
+  * [Class Slides](https://docs.google.com/presentation/d/1-2M-i95LXN52ITT8sPhmdf3X70oElrMdfY2MidHfghM/edit?usp=sharing)
   * [Background and reference](Week1.md)
   * [Notebook 1: "Look at this figure"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_01_Look%20At%20This%20Figure.ipynb)
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
