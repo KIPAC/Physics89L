@@ -76,10 +76,12 @@ Once you have installed and setup up miniconda, run this command in the terminal
 
 The github desktop app is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use the github desktop app.
 
-1. Install the github desktop app from here: https://desktop.github.com/
+1. Install the github desktop app from here: [https://desktop.github.com/](https://desktop.github.com/)
 2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
-3. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the pull down menu
+     1. Alternatively, where it says "Let's get started!", click "Clone a Repository from the Internet", and then select the "URL" tab.
+3. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the pull down menu.
 4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics89L"
+     1. You can always change this installation location if you have already have a file organization structure in place on your laptop.
 5. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
 6. This will show all the changes that you have made to your local version.  Git allows you do to many things, such as saving your local version and keeping track of the differences, but the simplest thing to do is either rename the files that you have changed or just to right-click on the little box next to the each file and select "Discard Changes"
 
