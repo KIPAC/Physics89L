@@ -15,7 +15,7 @@ This week we are going to be discussing how to combine measurements and the impo
 
 When taking data or reading through scientific results, you will encounter measurements of the same parameter which were taken by different instruments, or where you don't have access to the raw data. One approach to combining multiple measurements is using a weighted average, where the weights depend on the uncertainties on each measurement. The first notebook will explore this approach and how it compares to taking the "true mean".
 
-The second notebook will explore Poisson statistics. The Poisson distribution describes the number of random events which occur in a fixed period of time, where each event is independently and has a fixed average rate. This can be applied to radioactive decays, the earthquakes, or when our wifi randomly seems to go down. 
+The second notebook will explore Poisson statistics. The Poisson distribution describes the number of random events which occur in a fixed period of time, where each event is independent and there is a fixed average rate. This can be applied to collecting photons in cameras or other photodetectors, radioactive decays, earthquakes, or when our wifi randomly seems to go down.
 
 ## Scientific context and resources
 
