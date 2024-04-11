@@ -1,6 +1,6 @@
 # Physics89L
 
-Welcome to the repository for the class modules for Physics 89L: Introduction to laboratory physics.
+Welcome to the repository for the class modules for Physics 89L: Introduction to Data Analysis, With Python and Jupyter.
 
 Each week you will be working through 1-3 notebooks during the lab time, and then spending some additional time writing up a short report on what you did.
 
@@ -17,9 +17,9 @@ The best/ most flexible way to run jupyter is to install it on your computer.  T
 
 You can download anaconda for free here:
 
-https://www.anaconda.com/products/individual
+[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
 
-https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
+[https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)
 
 
 ### Installing and updating this Repository on your computer
@@ -32,10 +32,10 @@ Note that this will download the current version of the repository, so you will 
 
 ### Option 2: using github desktop app (a bit longer to setup, but easy to update each week)
 
-1. Install the github desktop app from here: https://desktop.github.com/
+1. Install the github desktop app from here: [https://desktop.github.com/](https://desktop.github.com/)
 2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
-3. Type in 'KIPAC/Physics67' into the test box and select "Clone Repository..." from the pull down menu
-4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics67"
+3. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the pull down menu
+4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics89L"
 5. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
 6. This will show all the changes that you have made to your local version.  Git allows you do to many things, such as saving your local version and keeping track of the differences, but the simplest thing to do is either rename the files that you have changed or just to right-click on the little box next to the each file and select "Discard Changes"
 
@@ -48,7 +48,7 @@ If you know how to do this, or have a friend who knows how to do this, then plea
 
 You can also use the service "binder" to run the notebooks on a remote server on the web.  This works, but has the disadvantage that it can be difficult to the work you do in the notebook, so you will probably end up copying things to 
 
-1. Go to https://mybinder.org/
+1. Go to [https://mybinder.org/](https://mybinder.org/)
 2. Type "KIPAC/Physics89L" into the "GitHub repository name or URL" text box and then click on the orange "Launch" button, it will take a few minutes to set up a machine somewhere off in the cloud and connect you to it. 
 
 ### Opening a Notebook in your browser
