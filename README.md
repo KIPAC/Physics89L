@@ -53,6 +53,7 @@ You can also use the service "binder" to run the notebooks on a remote server on
 
 ### Opening a Notebook in your browser
 
-One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  
+One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder. 
+
 <!--- (What this is depends a bit on which --->
 
