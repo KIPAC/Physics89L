@@ -49,6 +49,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 2: 
   * Topics: Weighted averages and Poisson statistics
+  * [Class Slides](https://docs.google.com/presentation/d/1djnVp7S0QoNKlQUfh2JWu9oSz5ZJIfhgMqFVkbNFj_U/edit?usp=sharing)
   * [Background and reference](Week2.md)
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
