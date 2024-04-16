@@ -13,14 +13,14 @@ Welcome to Physics 89L.   The main goal of this course is to teach you how to dr
 Top level goals – you will learn how to:
 
   1. use python and jupyter notebooks to do simple data analysis and make plots
-  2. assign an error (uncertainty) to an experimental measurement
+  2. assign an uncertainty to an experimental measurement
   3. have a defensible result from an experiment
-  4. identify and quantify statistical and systematic errors in an experimental measurement
+  4. identify and quantify statistical and systematic uncertainties in an experimental measurement
 
 Techniques to learn that will help reach the goal:
 
   1. finding mean, variance, standard deviation of discrete and continuous data sets
-  2. error propagation
+  2. uncertainty propagation
   3. least squares curve fitting
   4. use distributions to predict statistical spreads in data (in this class, primarily Gaussian and Poisson distributions)
 
@@ -55,13 +55,12 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
 
 
-<!--
 * Notes for Week 3: 
-  * Topics: Error propagation
+  * Topics: Uncertainty propagation
   * [Background and reference](Week3.md)
-  * [Notebook 1: "Propagation of errors"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_01_Propagation_of_errors.ipynb)
-  * [Notebook 2: "More propagation of errors"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Error_Propagation.ipynb)
--->
+  * [Notebook 1: "Propagation of Uncertainty"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_01_Propagation_of_Uncertainty.ipynb)
+  * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
+
 
 <!--
 * Notes for Week 4: 

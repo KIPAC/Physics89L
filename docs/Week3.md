@@ -13,7 +13,7 @@ Topics covered:
 This week we are going to be discussing how to interpret and estimate
 measurement uncertainties. 
 
-The statistical technique that will well cover is error propagation.
+The statistical technique that will well cover is uncertainty propagation.
 
 These topics are covered in chapters 3 and 4 of: "Measurements and Their Uncertainties : A Practical Guide to Modern Error Analysis" which is available online via the Stanford bookstore.  You don't need to read those chapters, but you may find them a useful reference, and they present the material in a somewhat different way than we will be presenting it, which you might find more intuitive.
 
