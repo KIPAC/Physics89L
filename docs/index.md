@@ -57,6 +57,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 3: 
   * Topics: Uncertainty propagation
+  * [Class Slides](https://docs.google.com/presentation/d/15NkS4FXT-37R0fEUvtou1mbnsb2RDqikqs2X9BsQ4to/edit?usp=sharing)
   * [Background and reference](Week3.md)
   * [Notebook 1: "Propagation of Uncertainty"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_01_Propagation_of_Uncertainty.ipynb)
   * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
