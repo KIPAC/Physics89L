@@ -1,5 +1,8 @@
 docs_after/
 
+# OSX indexing files
+.DS_Store
+
 # Conda
 .conda/
 
