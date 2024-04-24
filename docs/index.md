@@ -63,13 +63,13 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
 
 
-<!--
 * Notes for Week 4: 
   * Topics: Gaussians and p-values
+  * [Class Slides](https://docs.google.com/presentation/d/1W2chEqmOzueVA-qvSTE1VCi26DPAxk_ZAgDRZMPO9oc/edit?usp=sharing)
   * [Background and reference](Week4.md)
   * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
   * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
--->
+
   
 <!--
 * Notes for Week 5: 
