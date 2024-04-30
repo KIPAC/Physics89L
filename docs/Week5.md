@@ -3,6 +3,7 @@
 Topics covered: Covariance, correlation, and chi-square fitting.
 
 * Course material
+  * [Class Slides](https://docs.google.com/presentation/d/1UI1V3Ml8yid0QH7czevymum1Qhe0r9Xkm8QiGxWA2mA/edit?usp=sharing)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
@@ -25,9 +26,9 @@ are the important ones that we will be using.
 | fig.subplots             | Makes subplots for a figure |
 | np.cov                   | Compute the covariance matrix between multiple data series |
 | np.corrcoef              | Compute the correlation coefficient between multiple data series |
-|  plt.contour |  Make a contour plot, ie., show the contours correspond to a series of values |
-| scipy.stats.minimize | Find the parameter values that minimize a user-provided "cost function" |
-| scipy.stats.chi2 | Interact with a $\chi^2$ distribution, e.g., to compute a p-value |
+| plt.contour              |  Make a contour plot, ie., show the contours correspond to a series of values |
+| scipy.stats.minimize     | Find the parameter values that minimize a user-provided "cost function" |
+| scipy.stats.chi2         | Interact with a $\chi^2$ distribution, e.g., to compute a p-value |
 
 
 <!--  LocalWords:  numpy.var plt.imshow plt.colorbar plt.legend

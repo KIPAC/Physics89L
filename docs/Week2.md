@@ -3,6 +3,7 @@
 Topics covered:
 
 * Course material
+  * [Class Slides](https://docs.google.com/presentation/d/1djnVp7S0QoNKlQUfh2JWu9oSz5ZJIfhgMqFVkbNFj_U/edit?usp=sharing)
   * [Data analysis topics](Week2.html#data-analysis-topics)
   * [Scientific context](Week2.html#scientific-context-and-resources)
   * [Python functions and tools reference](Week2.html#python-functions-reference)
