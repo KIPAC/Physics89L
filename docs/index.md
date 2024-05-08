@@ -79,13 +79,13 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "Fitting a line to data"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
 
 
-<!--
 * Notes for Week 6: 
   * Topics: Minimizers and fitting
+  * [Class Slides](https://docs.google.com/presentation/d/1OTeBO0CqRzfTZ6JI2STfArU7hG9cIOHbcDhH3KqJpYA/edit?usp=sharing)
   * [Background and reference](Week6.md)
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
--->
+
 
 <!--
 * Notes for Week 7: 
