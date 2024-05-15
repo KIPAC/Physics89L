@@ -48,7 +48,7 @@ We will be using one simple new function to interpolate and subsequently evaluat
 
 | Function Name            | What it does |
 | - | - |
-| scipy.interpolate.interp1d  | Given a set of data xvals and yvals, where yvals = f(xvals), compute y* = f(x*) for some x* within the range of xvals. See the [SciPy interpolation documentation](https://docs.scipy.org/doc/scipy/reference/interpolate.html] for more information |
+| scipy.interpolate.interp1d  | Given a set of data xvals and yvals, where yvals = f(xvals), compute y* = f(x*) for some x* within the range of xvals. See the [SciPy interpolation documentation](https://docs.scipy.org/doc/scipy/reference/interpolate.html) for more information |
 
 
 <!--  LocalWords:  
