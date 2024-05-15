@@ -3,6 +3,7 @@
 Topics covered: Data selection, efficiency, leakage, and rare event searches
 
 * Course material
+  * [Class Slides](https://docs.google.com/presentation/d/1wDiUtIUDxhE_3Rlui4snUp4SUhyy525SqWg7ItthX-k/edit?usp=sharing)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
@@ -43,10 +44,11 @@ The LZ experiment will be turning on very soon, so stay tuned for word on our se
 
 ## Python functions reference
 
-We will not be using any new python functions this week. 
+We will be using one simple new function to interpolate and subsequently evaluate an empirical/numerical relation. 
 
 | Function Name            | What it does |
 | - | - |
+| scipy.interpolate.interp1d  | Given a set of data xvals and yvals, where yvals = f(xvals), compute y* = f(x*) for some x* within the range of xvals. See the [SciPy interpolation documentation](https://docs.scipy.org/doc/scipy/reference/interpolate.html] for more information |
 
 
 <!--  LocalWords:  

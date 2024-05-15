@@ -87,13 +87,13 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
 
-<!--
 * Notes for Week 7: 
   * Topics: Data selection, efficiency, leakage, and rare event searches
+  * [Class Slides](https://docs.google.com/presentation/d/1wDiUtIUDxhE_3Rlui4snUp4SUhyy525SqWg7ItthX-k/edit?usp=sharing)
   * [Background and reference](Week7.md)
   * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
--->
+
 
 <!--
 * Notes for Week 8: 
