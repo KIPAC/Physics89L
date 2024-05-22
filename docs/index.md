@@ -95,13 +95,13 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 
 
-<!--
 * Notes for Week 8: 
   * Topics: Frequency analysis
+  * [Class Slides](https://docs.google.com/presentation/d/1TD2furVhz5XIh62bsOB7Lld6qKuYou-Pk1csGkFgnFk/edit?usp=sharing)
   * [Background and reference](Week8.md)
   * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
   * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
--->
+
 
 <!--
 * Final Projects:

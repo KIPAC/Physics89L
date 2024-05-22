@@ -3,8 +3,10 @@
 Topics covered: Fourier Transform and frequency space, frequency filtering, 2D Fourier methods, Background subtraction for noise reduction and signal amplification. 
 
 * Course material
+  * [Class Slides](https://docs.google.com/presentation/d/1TD2furVhz5XIh62bsOB7Lld6qKuYou-Pk1csGkFgnFk/edit?usp=sharing)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
+  * [Python functions reference](#Python%20functions%20reference)
   * [Template for "report" questions](https://docs.google.com/document/d/1ZOuiN04bB3rT4KpZA-wxVbDGfIJkM1UwuXGcIUJbtmM/edit?usp=sharing)
 
 ## Data analysis topics
@@ -36,6 +38,20 @@ The basic principle of operation is that a metallic scanning "tip" is carefully 
 Because electrons are extremely small even compared to atoms, the electrons we detect with the STM look like a continuous distribution rather than individual particles. Remarkably, this electron cloud behaves much like a liquid in that any disturbance on the surface creates oscillations in the electronic density just like how throwing rocks in a puddle of water creates waves on the surface. And in the same way that we can learn about properties of water by throwing rocks and studying the waves (for example the surface tension), we can also study these electronic oscillations caused by defects on the surface to measure fundamental characteristics of the electronic energy structure. 
 
 
+## Python functions reference
+
+We will be using one simple new function to interpolate and subsequently evaluate an empirical/numerical relation. 
+
+| Function Name            | What it does |
+| - | - |
+| numpy.fft            | NumPy module to compute FFTs and associated frequency bins |
+| numpy.fft.rfft       | Compute the 1D Discrete Fourier Transform for real-valued signals (i.e. positive frequencies) |
+| numpy.fft.rfftfreq   | Compute the associated DFT frequencies, i.e. each term in the fourier transform |
+| scipy.signal         | Extensive module for analysis of continuous (sampled) signals |
+| scipy.signal.square  | Function to generate a square wave of amplitude 1 with some duty cycle (default 0.5) |
+| scipy.signal.butter  | Generate filter coefficients for a Butterworth type filter |
+| scipy.signal.sosfilt | Apply some filter coefficients to a signal |
+| scipy.io.wavfile     | Module for handling audio files of .wav format |
 <!--  LocalWords:  
  -->
 <!--  LocalWords:  
