@@ -103,10 +103,9 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
 
-<!--
 * Final Projects:
   * [Overview](Projects.md)
--->
+
 
 ## Contact and Legal
 

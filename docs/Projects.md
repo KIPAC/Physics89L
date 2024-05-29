@@ -51,6 +51,14 @@ Here is a description of the four template projects available:
 
 - This project requires a limited amount of programming. It will explore concepts of statistical significance and Fourier transforms.  
 
+#### 5. Calibrating an Optical Tweezer using Fourier analysis
+
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Optical_Tweezers_Calibration.ipynb)
+
+- This project will make use of Fourier techniques to calibrate the response of an optically levitated microsphere to external forces. This is accomplished by configuring the microsphere to have single excess electron and thus a net charge of $q = -e$, and then driving it with a known electric field and observing the response.
+
+- This project is reasonably straightforward from a conceptual standpoint, but will require you to think about the Fourier Transform and write some of your own functions and array manipulations
+
 
 ### Grading rubric
 
