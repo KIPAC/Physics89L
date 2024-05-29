@@ -104,6 +104,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 
 * Final Projects:
+  * [Class Slides](https://docs.google.com/presentation/d/1wxwV9IM5xWUxDODuBHT1mKXy4E4HyVlIPKgWUxv7Uqw/edit?usp=sharing)
   * [Overview](Projects.md)
 
 
