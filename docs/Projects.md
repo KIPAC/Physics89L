@@ -63,7 +63,7 @@ Here is a description of the four template projects available:
 ### Grading rubric
 
 - The project will be graded out of 3, and will use a similar rubric to the lab reports. It will be weighted as 2 lab reports.
-- Projects will be due on Friday, June 7.
+- Projects will be due on Monday, June 10.
 - No late projects will be accepted without prior approval.
 - A reminder that an average grade of 2 or above, averaged over all of the assignments, is required to receive credit for the course. All assignments **must be completed**, regardless of your average grade.
 

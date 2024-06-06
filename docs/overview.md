@@ -27,10 +27,9 @@ The class breakdown will look something like this:
 
 ### Final project / presentation
 
-The last two weeks of the class will be devoted to working on presenting a short (2 or 3 slide) presentation following up on some data analysis
-from one of the topics that we covered in the course.
+The last two weeks of the class will be devoted to working on a final project that follows up on some data analysis from one of the topics that we covered in the course.
 
-Week 9 will be a chance to work on the data analysis and start to organize your slides.  Week 10 will not have a regular class meeting given the shortened week, and instead the usual Wednesday class meeting will serve as extra Open Door Hours for you to get advice/help from the teaching staff.
+Week 9 will be a chance to work on the data analysis and start to organize your report.  Week 10 will not have a regular class meeting given the shortened week, and instead the usual Wednesday class meeting will serve as extra Open Door Hours for you to get advice/help from the teaching staff.
 
 
 
