@@ -1,10 +1,10 @@
 # Introduction to Data Analysis, With Python and Jupyter
 
-These are course notes and resources for Physics 89L (formerly 67), Introduction to Data Analysis, With Python and Jupyter
+These are course notes and resources for Physics 89L, Introduction to Data Analysis, With Python and Jupyter
 
 ## Course Descriptions
 
-Welcome to Physics 89L.   The main goal of this course is to teach you how to draw a conclusion from data. In practice, this involves learning fundamental data analysis techniques and statistics. This is intended to prepare you for conducting research in physics or astronomy, but we believe that the concepts are applicable broadly to anything that requires you to look at data.
+Welcome to Physics 89L. The main goal of this course is to teach you how to draw a conclusion from data. In practice, this involves learning fundamental data analysis techniques and statistics. This is intended to prepare you for conducting research in physics or astronomy, but we believe that the concepts are applicable broadly to anything that requires you to look at data.
 
 **We believe an active learning approach, where we spend more time understanding and discussing the problems that these methods are intended to solve will help you to a deeper understanding of both the tools, and why we use them for data analysis.**
 
@@ -40,13 +40,13 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 1: 
   * Topics: Introduction, histograms, descriptive statistics
-  * [Class Slides](https://docs.google.com/presentation/d/1-2M-i95LXN52ITT8sPhmdf3X70oElrMdfY2MidHfghM/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1oONrehiWppdOPcdKFqAiprrtvHAZW3NNBZTkdjiGZjY/edit?usp=drive_link)
   * [Background and reference](Week1.md)
   * [Notebook 1: "Look at this figure"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_01_Look%20At%20This%20Figure.ipynb)
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 
-
+<!-- 
 * Notes for Week 2: 
   * Topics: Weighted averages and Poisson statistics
   * [Class Slides](https://docs.google.com/presentation/d/1djnVp7S0QoNKlQUfh2JWu9oSz5ZJIfhgMqFVkbNFj_U/edit?usp=sharing)
@@ -105,7 +105,8 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Final Projects:
   * [Class Slides](https://docs.google.com/presentation/d/1wxwV9IM5xWUxDODuBHT1mKXy4E4HyVlIPKgWUxv7Uqw/edit?usp=sharing)
-  * [Overview](Projects.md)
+  * [Overview](Projects.md) 
+-->
 
 
 ## Contact and Legal

@@ -19,8 +19,9 @@ Students should be familiar with calculus concepts such as differentiation, inte
 
 - Instructor: Charles Blakemore (email: cblakemore@stanford.edu)
 - TAs:
-  * Sephora Ruppert (email: sephora@stanford.edu)
-  * Eleanor Weckworth (email: eweck@stanford.edu)
+  * Elizabeth Berzin (email: eberzin@stanford.edu)
+  * Ana Carolina Silva Oliveira (email: anaoliv@stanford.edu)
+  * Adi Prasanna Suresh (adisur@stanford.edu)
 
 Students are encouraged to attend the instructors' Open Door Hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 
 
@@ -62,16 +63,16 @@ If you can’t attend the other section, you are allowed one absence. You can co
 
 | Week No. | Week | Topic |
 | -------- | ---- | ----- |
-| 1 | 04/01--04/05 | Introduction, histograms, descriptive statistics |
-| 2 | 04/08--04/12 | Weighted averages, variance |
-| 3 | 04/15--04/19 | Error propagation | 
-| 4 | 04/22--04/26 | Gaussian distributions, statistical significance |
-| 5 | 04/29--05/03 | Covariance matrix, simple fitting |
-| 6 | 05/06--05/10 | Fitting a model |
-| 7 | 05/13--05/17 | Distinguishing signal from background |
-| 8 | 05/20--05/24 | Frequency analysis |
-| 9 | 05/27--06/31 | Final project work | 
-| 10 | 06/03--06/05 | Final project work |
+| 1 | 03/31--04/04 | Introduction, histograms, descriptive statistics |
+| 2 | 04/07--04/11 | Weighted averages, variance |
+| 3 | 04/14--04/18 | Error propagation | 
+| 4 | 04/21--04/25 | Gaussian distributions, statistical significance |
+| 5 | 04/28--05/02 | Covariance matrix, simple fitting |
+| 6 | 05/05--05/09 | Fitting a model |
+| 7 | 05/12--05/16 | Distinguishing signal from background |
+| 8 | 05/19--05/23 | Frequency analysis |
+| 9 | 05/26--06/30 | Final project work | 
+| 10 | 06/02--06/04 | Final project work |
 
 ### Honor code
 The Stanford Honor code is found [here](https://communitystandards.stanford.edu/policies-guidance/honor-code). We expect that students abide by the honor code.
