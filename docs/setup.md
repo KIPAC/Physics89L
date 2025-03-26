@@ -48,7 +48,7 @@ be using a few of these python packages in this class.
 Depending on how you install python, you might have to install these packages separately.  Fortunately, there are some great tools to manage python packages.  We will be using the "conda" tool.
 
 
-### Option 1: Installing 'anaconda'
+### Option 1: Installing 'anaconda' (easiest)
 
 The `Anaconda` data analysis environment is much more complete that miniconda, and includes some other things that you might find useful, but you don't need the added features for this course. We would recommend installing anaconda if you think you might use python and python packages outside of this course and if you have a lot of disk space.
 
@@ -73,7 +73,7 @@ Once you have installed and setup up Miniconda, run this command in the terminal
 ## Downloading the notebooks and data
 
 
-### Option 1: using github desktop app
+### Option 1: using github desktop app (easiest)
 
 The github desktop app is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use the github desktop app.
 
