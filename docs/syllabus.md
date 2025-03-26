@@ -17,10 +17,10 @@ Students should be familiar with calculus concepts such as differentiation, inte
 
 ### Contact information
 
-- Instructor: Charles Blakemore (email: cblakemore@stanford.edu)
+- Instructor: Charles Blakemore (cblakemore@stanford.edu)
 - TAs:
-  * Elizabeth Berzin (email: eberzin@stanford.edu)
-  * Ana Carolina Silva Oliveira (email: anaoliv@stanford.edu)
+  * Elizabeth Berzin (eberzin@stanford.edu)
+  * Ana Carolina Silva Oliveira (anaoliv@stanford.edu)
   * Adi Prasanna Suresh (adisur@stanford.edu)
 
 Students are encouraged to attend the instructors' Open Door Hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 

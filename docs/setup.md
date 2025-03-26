@@ -54,19 +54,20 @@ The `Anaconda` data analysis environment is much more complete that miniconda, a
 
 It does have the nice feature of complete environment, so you won't have to use the terminal to install anything.
 
-You can download anaconda for free [here](https://www.anaconda.com/products/individual).
+You can download anaconda for free [HERE](https://www.anaconda.com/download).
+- Click "Skip registration" instead of providing your email
+- Install Python 3.11 to ensure code compatibility
 
 This installation will include numpy, matplotlib, scipy and jupyter so you shouldn't have to do anything else.
 
 
 ### Option 2:  Installing 'miniconda'
 
-You can also get up and running with [Miniconda](https://conda.io/en/latest/miniconda.html). Follow the instructions in the link for your computer to set it up.
-This will require that you do a number of things in the terminal window, but the instructions should be clear enough that you can set things up even if you haven't used a terminal window before.
+You can also get up and running with [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install). Follow the instructions in the link, specific to your operating system. This will require that you do a number of things in the terminal window, but the instructions should be clear enough that you can set things up even if you haven't used a terminal window before.
 
-Once you have installed and setup up miniconda, run this command in the terminal window to install the extra packages that you will need for this course
+Once you have installed and setup up Miniconda, run this command in the terminal window to install the extra packages that you will need for this course
 
-	`conda install python=3.8 numpy scipy matplotlib jupyter` 
+	`conda install python=3.11 numpy scipy matplotlib jupyter` 
 
 
 ## Downloading the notebooks and data
@@ -79,7 +80,7 @@ The github desktop app is both a nice tool to interface with git, and a way to u
 1. Install the github desktop app from here: [https://desktop.github.com/](https://desktop.github.com/)
 2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
      1. Alternatively, where it says "Let's get started!", click "Clone a Repository from the Internet", and then select the "URL" tab.
-3. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the pull down menu.
+3. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the drop-down menu.
 4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics89L"
      1. You can always change this installation location if you have already have a file organization structure in place on your laptop.
 5. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
@@ -106,6 +107,8 @@ This will move all of the changes that you have made to a backup area so they do
 `git pull`
 
 This will fetch all the new changes form the repository and merge them into your version.
+
+It can be complicated to then merge your stashed changes with the newest version of the repository, but we'll provide instructions each week on how to do this so you can get some practice with git!
 
 
 ### Option 3: Direct download
