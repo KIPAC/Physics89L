@@ -50,9 +50,9 @@ Depending on how you install python, you might have to install these packages se
 
 ### Option 1: Installing 'anaconda' (easiest)
 
-The `Anaconda` data analysis environment is much more complete that miniconda, and includes some other things that you might find useful, but you don't need the added features for this course. We would recommend installing anaconda if you think you might use python and python packages outside of this course and if you have a lot of disk space.
+The `Anaconda` data analysis environment is much more complete than miniconda, and includes some other things that you might find useful (although you don't need the added features for this course). We would recommend installing Anaconda if you think you might use python and python packages outside of this course and if you have a lot of disk space.
 
-It does have the nice feature of complete environment, so you won't have to use the terminal to install anything.
+It does have the nice feature of complete application and environment, so you won't have to use the terminal to install anything.
 
 You can download anaconda for free [HERE](https://www.anaconda.com/download).
 - Click "Skip registration" instead of providing your email
@@ -61,7 +61,7 @@ You can download anaconda for free [HERE](https://www.anaconda.com/download).
 This installation will include numpy, matplotlib, scipy and jupyter so you shouldn't have to do anything else.
 
 
-### Option 2:  Installing 'miniconda'
+### Option 2: Installing 'miniconda'
 
 You can also get up and running with [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install). Follow the instructions in the link, specific to your operating system. This will require that you do a number of things in the terminal window, but the instructions should be clear enough that you can set things up even if you haven't used a terminal window before.
 
@@ -73,9 +73,9 @@ Once you have installed and setup up Miniconda, run this command in the terminal
 ## Downloading the notebooks and data
 
 
-### Option 1: using github desktop app (easiest)
+### Option 1: Using the Github Desktop application (easiest)
 
-The github desktop app is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use the github desktop app.
+The Github Desktop application is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use Github Desktop.
 
 1. Install the github desktop app from here: [https://desktop.github.com/](https://desktop.github.com/)
 2. Once you have installed it, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
@@ -84,10 +84,10 @@ The github desktop app is both a nice tool to interface with git, and a way to u
 4. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics89L"
      1. You can always change this installation location if you have already have a file organization structure in place on your laptop.
 5. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
-6. This will show all the changes that you have made to your local version.  Git allows you do to many things, such as saving your local version and keeping track of the differences, but the simplest thing to do is either rename the files that you have changed or just to right-click on the little box next to the each file and select "Discard Changes"
+6. This will show all the changes that you have made to your local version.  As part of the course, we'll talk about how to keep your local changes and merge any updates from the "origion".
 
 
-### Option 2: using git
+### Option 2: Using git
 
 `git` is a software versioning tool.  It will allow you to fetch the latest version of the notebook repository to your computer.
 You can find instructions on how to install git [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -98,17 +98,7 @@ Once you have installed git, from a terminal window you can do:
 
 to install the repository on your computer.
 
-At any point you can update the repository on your computer to the latest version by doing two commands
-
-`git stash`
-
-This will move all of the changes that you have made to a backup area so they don't get overwritten when you get new files for the repository. 
-
-`git pull`
-
-This will fetch all the new changes form the repository and merge them into your version.
-
-It can be complicated to then merge your stashed changes with the newest version of the repository, but we'll provide instructions each week on how to do this so you can get some practice with git!
+Once you interact with the files and make changes, your code will necessarily diverge from the "origin" repository. As part of the course, we'll talk about git branches and how to keep track of changes locally while still incorporating changes from a "main" branch.
 
 
 ### Option 3: Direct download
@@ -117,14 +107,14 @@ If you don't want to use git, you can always just download a snapshot of the rep
 
 Go to https://github.com/KIPAC/Physics89L and click on the green "Code" button in and select "Download ZIP" from the drop-down menu.
 
-Note that this will download the current version of the repository, so you will want to do this each week before class.  You probably want to save the older version first so that you can refer to previous work.
+Note that this will download the current version of the repository, so you will want to do this each week before class to include any changes made.  You probably want to save the older version first so that you can refer to previous work.
 
 
 ## Open the jupyter notebook browser
 
-If you installed anaconda, then you can start jupyter from the anaconda App graphical interface.  (Applications -> Anaconda Navigator, then click on the "Launch" button in the "Jupyter Notebook" box.
+If you installed Anaconda, then you can start jupyter from the Anaconda Navigator, which has a graphical interface.  Navigate to: Applications -> Anaconda Navigator, then click on the "Launch" button in the "Jupyter Notebook" box.
 
-One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (Either the folder you ran the `jupyter-notebook` command from, or a folder that you can set in the anaconda preferences).  From there you should navigate to the folder that you have installed the course in and click on the notebook you want to run.
+One you have started jupyter, it will pop up a browser window showing the contents of what jupyter treats as your home folder.  (Either the folder you ran the `jupyter-notebook` command from, or a folder that you can set in the anaconda preferences).  From there you should navigate to the folder that you have installed the course in (the git repository you cloned earlier) and click on the notebook you want to run.
 
 If you installed jupyter using miniconda you can start jupyter from a terminal by typing:
 
