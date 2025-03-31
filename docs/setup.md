@@ -15,23 +15,23 @@ To run these notebooks you are going to install some software on your computer. 
 Please follow these steps:
 
 1. Install a python and python package manager, using *one* of two options:
-   1. [Install `anaconda`](#option-1-installing-anaconda) (recommended for ease of installation)
+   1. [Install `anaconda`](#option-1-installing-anaconda-easiest) (recommended for ease of installation)
 	  1. You won't need the terminal window, and the installation will install all the packages you need (and a whole lot more)
    2. [Install `miniconda`](#option-2-installing-miniconda)
 	  1. You wil have to use the terminal window to install miniconda which might be new to some of you.
 	  2. You will have to install a few extra data analysis packages by hand.
 	  
 2. Download the notebooks and data for this course. There are three ways you can access these:
-   1. [Using the github-desktop app](#option-1-using-the-github-desktop-application) (recommended for ease of installation)
+   1. [Using the github-desktop app](#option-1-using-the-github-desktop-application-easiest) (recommended for ease of installation)
         1. This will take longer to set up but will be easier to update each week.
    2. [Using the git tool](#option-2-using-git)
         1. You will have to use the terminal window.
    3. [Downloading them from the repository directly](#option-3-direct-download)
 
 3. [Open the jupyter notebook browser](#open-the-jupyter-notebook-browser)
-4. [Test your setup](#testing-your-setup)
+4. [Test your setup](#test-your-setup)
 
-Backup option:  [Run on the cloud](setup.md#backup-plan)
+Backup option:  [Run on the cloud](#backup-plan)
 
 
 ## Installing python and a python package manager on your computer
