@@ -22,7 +22,7 @@ Please follow these steps:
 	  2. You will have to install a few extra data analysis packages by hand.
 	  
 2. Download the notebooks and data for this course. There are three ways you can access these:
-   1. [Using the github-desktop app](#option-1-using-github-desktop-app) (recommended for ease of installation)
+   1. [Using the github-desktop app](#option-1-using-the-github-desktop-application) (recommended for ease of installation)
         1. This will take longer to set up but will be easier to update each week.
    2. [Using the git tool](#option-2-using-git)
         1. You will have to use the terminal window.
@@ -110,7 +110,7 @@ Go to https://github.com/KIPAC/Physics89L and click on the green "Code" button i
 Note that this will download the current version of the repository, so you will want to do this each week before class to include any changes made.  You probably want to save the older version first so that you can refer to previous work.
 
 
-## Open the jupyter notebook browser
+## Open the Jupyter Notebook browser
 
 If you installed Anaconda, then you can start jupyter from the Anaconda Navigator, which has a graphical interface.  Navigate to: Applications -> Anaconda Navigator, then click on the "Launch" button in the "Jupyter Notebook" box.
 

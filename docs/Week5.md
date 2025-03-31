@@ -3,11 +3,11 @@
 Topics covered: Covariance, correlation, and chi-square fitting.
 
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1UI1V3Ml8yid0QH7czevymum1Qhe0r9Xkm8QiGxWA2mA/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1CE4O-7-3nmCA5gCCSP0jctQhJQ6hbJWk50GfUwRc2DM/edit?usp=drive_link)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1D3O8AjzSNhCOFeKVrSXmRWSKdOFIdSMkdNTPZ-CIdaM/edit)
+  * [Template for "report" questions](https://docs.google.com/document/d/1d0OahL1ZaIQYXWLyPETjjPfO70OkcmOVEt3j1GDVmWw/edit?usp=drive_link)
 
 ## Scientific context and resources
 

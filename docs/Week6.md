@@ -3,11 +3,11 @@
 Topics covered: Least-squares fitting with a function minimizer.
 
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1OTeBO0CqRzfTZ6JI2STfArU7hG9cIOHbcDhH3KqJpYA/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1j0wjFUgtc2soVB9F4MYKADD8ZciIHu4oSPVdy2MAtCA/edit?usp=drive_link)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1rKwI8zIhoj7zSRdIGAYcBkfRnCz1eIrEYE6lMJRqYkU/edit)
+  * [Template for "report" questions](https://docs.google.com/document/d/1Q2jJXXkg0rISnucJdY6voYC9vC_xVOljSD6p3Mm4FiY/edit?usp=drive_link)
 
 ## Data analysis topics
 

@@ -49,7 +49,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 2: 
   * Topics: Weighted averages and Poisson statistics
-  * [Class Slides](https://docs.google.com/presentation/d/1djnVp7S0QoNKlQUfh2JWu9oSz5ZJIfhgMqFVkbNFj_U/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/10oGu6gCkJHGlzFacibRNGO9N9UCMHZs2D8onFtHvj1U/edit?usp=drive_link)
   * [Background and reference](Week2.md)
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
@@ -57,7 +57,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 3: 
   * Topics: Uncertainty propagation
-  * [Class Slides](https://docs.google.com/presentation/d/15NkS4FXT-37R0fEUvtou1mbnsb2RDqikqs2X9BsQ4to/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1KYdIyR7Fsi8EjeLXtAEkIC6XE6a-BLAJ-hWVVxcbbhM/edit?usp=drive_link)
   * [Background and reference](Week3.md)
   * [Notebook 1: "Propagation of Uncertainty"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_01_Propagation_of_Uncertainty.ipynb)
   * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
@@ -65,7 +65,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 4: 
   * Topics: Gaussians and p-values
-  * [Class Slides](https://docs.google.com/presentation/d/1W2chEqmOzueVA-qvSTE1VCi26DPAxk_ZAgDRZMPO9oc/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1w_4uGckpBr8uVEaR15bQtk4VeMH32Zndq_uqovBuSdI/edit?usp=drive_link)
   * [Background and reference](Week4.md)
   * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
   * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
@@ -73,7 +73,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   
 * Notes for Week 5: 
   * Topics: Covariance, correlation, chi-square fitting
-  * [Class Slides](https://docs.google.com/presentation/d/1UI1V3Ml8yid0QH7czevymum1Qhe0r9Xkm8QiGxWA2mA/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1CE4O-7-3nmCA5gCCSP0jctQhJQ6hbJWk50GfUwRc2DM/edit?usp=drive_link)
   * [Background and reference](Week5.md)
   * [Notebook 1: "Correlations"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_01_Correlations.ipynb)
   * [Notebook 2: "Fitting a line to data"](https://github.com/KIPAC/Physics89L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
@@ -81,7 +81,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 6: 
   * Topics: Minimizers and fitting
-  * [Class Slides](https://docs.google.com/presentation/d/1OTeBO0CqRzfTZ6JI2STfArU7hG9cIOHbcDhH3KqJpYA/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1j0wjFUgtc2soVB9F4MYKADD8ZciIHu4oSPVdy2MAtCA/edit?usp=drive_link)
   * [Background and reference](Week6.md)
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
@@ -89,7 +89,7 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 7: 
   * Topics: Data selection, efficiency, leakage, and rare event searches
-  * [Class Slides](https://docs.google.com/presentation/d/1wDiUtIUDxhE_3Rlui4snUp4SUhyy525SqWg7ItthX-k/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1bUFvjURaFfh8noQgN8aniutybcj8ZFD86HQS8SyYLK0/edit?usp=drive_link)
   * [Background and reference](Week7.md)
   * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
@@ -97,14 +97,14 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
 
 * Notes for Week 8: 
   * Topics: Frequency analysis
-  * [Class Slides](https://docs.google.com/presentation/d/1TD2furVhz5XIh62bsOB7Lld6qKuYou-Pk1csGkFgnFk/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1qtrlylFrjuZ-4gW7CGqLBHZMTaFwV9tr8LRbnJbtHls/edit?usp=drive_link)
   * [Background and reference](Week8.md)
   * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
   * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
 
 * Final Projects:
-  * [Class Slides](https://docs.google.com/presentation/d/1wxwV9IM5xWUxDODuBHT1mKXy4E4HyVlIPKgWUxv7Uqw/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1k2FrQduyliD4SHFxkTNZp1OavsTBbc2UtjZyiGl7kJE/edit?usp=drive_link)
   * [Overview](Projects.md) 
 -->
 
@@ -117,7 +117,7 @@ GPLv3 License, unless otherwise noted.
 
 Mod. Physics 89L Spring 2023 Ann Wang, George Halal, Drew Ames
 
-Mod. Physics 89L Spring 2024 Charles Blakemore
+Mod. Physics 89L Spring 2025 Charles Blakemore
 
 If you have any feedback for us, please write us an issue.
 

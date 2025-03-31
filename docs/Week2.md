@@ -3,11 +3,11 @@
 Topics covered:
 
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1djnVp7S0QoNKlQUfh2JWu9oSz5ZJIfhgMqFVkbNFj_U/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/10oGu6gCkJHGlzFacibRNGO9N9UCMHZs2D8onFtHvj1U/edit?usp=drive_link)
   * [Data analysis topics](Week2.html#data-analysis-topics)
   * [Scientific context](Week2.html#scientific-context-and-resources)
   * [Python functions and tools reference](Week2.html#python-functions-reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1uNPXYCd6IF-jAnPyq7k9pFP2x7VIohZZstGqm6t0WC8/edit?usp=sharing)
+  * [Template for "report" questions](https://docs.google.com/document/d/1A65JEdHNpXp4oe4n8LEF1JAjLoTG0RR9fhmi99cAXeU/edit?usp=drive_link)
 
 
 ## Data analysis topics

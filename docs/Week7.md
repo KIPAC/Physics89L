@@ -3,11 +3,11 @@
 Topics covered: Data selection, efficiency, leakage, and rare event searches
 
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1wDiUtIUDxhE_3Rlui4snUp4SUhyy525SqWg7ItthX-k/edit?usp=sharing)
+  * [Class Slides](https://docs.google.com/presentation/d/1bUFvjURaFfh8noQgN8aniutybcj8ZFD86HQS8SyYLK0/edit?usp=drive_link)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1hG0un74E4fElL56PDrtd_vQjWH_yIjAoBeaJvKK4hk8/edit#heading=h.ahqsgoshukd6)
+  * [Template for "report" questions](https://docs.google.com/document/d/1zd26ZlFwihqn6ZBGtd3uXCjTQQbgiW-Pt9xAeyKwuD0/edit?usp=drive_link)
 
 ## Data analysis topics
 
