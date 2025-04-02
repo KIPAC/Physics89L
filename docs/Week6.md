@@ -18,11 +18,11 @@ This week we are going to be how to perform least-squares fitting with a functio
 Last week we saw that we could estimate the model parameters that gave the best agreement to the data by scanning over the
 parameters and computing the `chi**2` for each value of the parameter.
 
-![Chi squared scan](scan_slope.png)
+![Chi squared scan](figures/scan_slope.png)
 
 We also did this for two parameters at once.  That gave us a plot that looks like this:
 
-![Two dimensional chi squared scan](2d_fit.png)
+![Two dimensional chi squared scan](figures/2d_fit.png)
 
 This week we are going to use an algorithm that finds the set of parameters that minimize the `chi**2` and give the best fit.
 
@@ -34,7 +34,7 @@ One of the most basic algorithms is the [Nelder-Mead](https://en.wikipedia.org/w
 
 Other minimization algorithms also make use of the first and second derivatives of the function with respect to the parameters. This gives you information about the shape of the function and which direction to "step" to find a minimum. These are often referred to as gradient-descent and Newton methods. The details of how these algorithm work are well beyond the scope of this class, but this is a very useful tool to be familiar with.
 
-![fitter](fitter.png)
+![fitter](figures/fitter.png)
 
 ## Scientific context and resources
 
@@ -53,12 +53,12 @@ Each hole is positioned specifically for a selected target, so every field in wh
 
 Here is a picture of one such aluminum plate:
 
-![SDSS plug plate](plate-sdss.jpg)
+![SDSS plug plate](figures/plate-sdss.jpg)
 
 Here are a couple of spectra:
 
-![sdss1](sdss_spec_1.png)
-![sdss2](sdss_spec_2.png)
+![sdss1](figures/sdss_spec_1.png)
+![sdss2](figures/sdss_spec_2.png)
 
 The figures have been helpfully annotated, showing the lines that correspond to particular atomic transitions.  By comparing
 the measured wavelength of the lines with the know emission wavelength we can measure the Dopper shift for each object.
