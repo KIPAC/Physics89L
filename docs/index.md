@@ -38,7 +38,6 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Software setup](setup.md)
   * [Social guidelines and expectations](social.md)
 
-<!-- 
 * Notes for Week 1: 
   * Topics: Introduction, histograms, descriptive statistics
   * [Class Slides](https://docs.google.com/presentation/d/1oONrehiWppdOPcdKFqAiprrtvHAZW3NNBZTkdjiGZjY/edit?usp=drive_link)
@@ -47,6 +46,8 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 
+
+<!-- 
 * Notes for Week 2: 
   * Topics: Weighted averages and Poisson statistics
   * [Class Slides](https://docs.google.com/presentation/d/10oGu6gCkJHGlzFacibRNGO9N9UCMHZs2D8onFtHvj1U/edit?usp=drive_link)
