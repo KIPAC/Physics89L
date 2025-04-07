@@ -55,7 +55,7 @@ A one-week extension for one report will be accepted without any questions asked
 If you anticipate an absence:
 
 - Email us as soon as you know. You’re still responsible for completing the lab by the due date unless you are using it as your one allowed late homework.
-- Attending the other section should usually be fine and does not count as an absence, just email a member of the teaching staff in advance to let us know. The Thursday evening section is very full and will not be able to accomodate regular swapping.
+- Attending the other section should usually be fine and does not count as an absence, just email a member of the teaching staff in advance to let us know.
 
 If you can’t attend the other section, you are allowed one absence. You can complete the lab independently and submit by the due date. You will be deducted one point, so the maximum grade you can receive for that lab is a 2. Any further absences will result in a maximum grade of 1 for that week and are not eligible for regrades. You still must complete each lab to receive credit for this class.
 
