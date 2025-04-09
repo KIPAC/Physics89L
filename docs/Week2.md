@@ -2,7 +2,7 @@
 
 Topics covered:
 
-* Course material
+* __Course material__
   * [Class Slides](https://docs.google.com/presentation/d/10oGu6gCkJHGlzFacibRNGO9N9UCMHZs2D8onFtHvj1U/edit?usp=drive_link)
   * [Data analysis topics](Week2.html#data-analysis-topics)
   * [Scientific context](Week2.html#scientific-context-and-resources)

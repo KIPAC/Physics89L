@@ -33,12 +33,12 @@ the software tools that you will be using in the course.
 The course content can be browsed here.
 This is sufficient for the notes, but to do the tutorials you will need to download them in Jupyter notebook format from the GitHub repository.
 
-* Getting Started
+* __Getting Started__
   * [Syllabus](syllabus.md)
   * [Software setup](setup.md)
   * [Social guidelines and expectations](social.md)
 
-* Notes for Week 1: 
+* __Notes for Week 1__: 
   * Topics: Introduction, histograms, descriptive statistics
   * [Class Slides](https://docs.google.com/presentation/d/1oONrehiWppdOPcdKFqAiprrtvHAZW3NNBZTkdjiGZjY/edit?usp=drive_link)
   * [Background and reference](Week1.md)
@@ -46,15 +46,15 @@ This is sufficient for the notes, but to do the tutorials you will need to downl
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics89L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 
-
-<!-- 
-* Notes for Week 2: 
+* __Notes for Week 2__: 
   * Topics: Weighted averages and Poisson statistics
   * [Class Slides](https://docs.google.com/presentation/d/10oGu6gCkJHGlzFacibRNGO9N9UCMHZs2D8onFtHvj1U/edit?usp=drive_link)
   * [Background and reference](Week2.md)
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
 
+
+<!-- 
 
 * Notes for Week 3: 
   * Topics: Uncertainty propagation
