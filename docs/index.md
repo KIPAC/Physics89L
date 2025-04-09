@@ -30,13 +30,15 @@ Start by looking at the materials under the "Getting Started" bullet
 point to understand how this course works, and get up and running with
 the software tools that you will be using in the course.
 
-The course content can be browsed here.
-This is sufficient for the notes, but to do the tutorials you will need to download them in Jupyter notebook format from the GitHub repository.
-
 * __Getting Started__
   * [Syllabus](syllabus.md)
   * [Software setup](setup.md)
   * [Social guidelines and expectations](social.md)
+
+The content for lab sections, including some introductory materials and 
+lists of important new python functions that you might encounter, are 
+included below. Content is separated by week, with links to relevant slides, 
+as well as the notebooks that we will work with for a particular week.
 
 * __Notes for Week 1__: 
   * Topics: Introduction, histograms, descriptive statistics
