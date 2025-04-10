@@ -34,5 +34,7 @@ We are going to be continuing to work with the set of measurements of the Hubble
 | rng.poisson(λ)                          | Draw a random number from a Poisson distribution with mean λ|
 | scipy.stats.poisson.pmf(x, λ)           | Get the Poisson probability density function with mean λ for given x values  |
 
+<!-- Test addition -->
+
 <!--  LocalWords:  numpy.var plt.imshow plt.colorbar plt.legend
  -->
