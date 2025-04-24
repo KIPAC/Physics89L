@@ -55,10 +55,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics89L/blob/main/nb/02_02_Counting_Muons.ipynb)
 
-
-<!-- 
-
-* Notes for Week 3: 
+* __Notes for Week 3__: 
   * Topics: Uncertainty propagation
   * [Class Slides](https://docs.google.com/presentation/d/1KYdIyR7Fsi8EjeLXtAEkIC6XE6a-BLAJ-hWVVxcbbhM/edit?usp=drive_link)
   * [Background and reference](Week3.md)
@@ -66,12 +63,15 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics89L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
 
 
-* Notes for Week 4: 
+* __Notes for Week 4__: 
   * Topics: Gaussians and p-values
   * [Class Slides](https://docs.google.com/presentation/d/1w_4uGckpBr8uVEaR15bQtk4VeMH32Zndq_uqovBuSdI/edit?usp=drive_link)
   * [Background and reference](Week4.md)
   * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
   * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics89L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
+
+
+<!-- 
 
   
 * Notes for Week 5: 
