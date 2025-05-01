@@ -43,13 +43,14 @@ For each lab, there will be a report assigned that you will work through in clas
 
 An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade up to a week from when they were first graded. Please also email us to tell us that you have submitted it so it doesn't escape our notice. Each report is due one week after the lab and should be submitted on the Canvas website.
 
-
 Week 9 of the course is set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. Week 10 ends on a Wednesday, and so we will not have a regular class meeting for either section. Instead, the usual Wednesday section will serve as extra Open-Door Hours for you to get advice or help on your final project. 
 
 There is no required textbook for this course.
 
 ### Homework policy
-A one-week extension for one report will be accepted without any questions asked (just note it as such on the report). Please also email us to tell us that you have submitted it so it doesn’t escape our notice. No other late reports will be accepted unless granted by an instructor or TA.
+A one-week extension for one report will be accepted without any questions asked (just note it as such on the report). Please also email us to tell us that you have submitted it so it doesn’t escape our notice. A second late report will be penalized 1 point, and each subsequent late report following will be penalized 2 points.
+
+Remember that you need an average grade of 2 across all reports for a Satisfactory grade
 
 ### Attendance policy
 If you anticipate an absence:
