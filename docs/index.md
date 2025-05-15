@@ -87,16 +87,15 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics89L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
 
-<!-- 
-
-
-* Notes for Week 7: 
+* __Notes for Week 7__: 
   * Topics: Data selection, efficiency, leakage, and rare event searches
   * [Class Slides](https://docs.google.com/presentation/d/1bUFvjURaFfh8noQgN8aniutybcj8ZFD86HQS8SyYLK0/edit?usp=drive_link)
   * [Background and reference](Week7.md)
   * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 
+
+<!--
 
 * Notes for Week 8: 
   * Topics: Frequency analysis
