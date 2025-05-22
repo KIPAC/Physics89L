@@ -42,7 +42,7 @@ Because electrons are extremely small even compared to atoms, the electrons we d
 
 We will be using one simple new function to interpolate and subsequently evaluate an empirical/numerical relation. 
 
-| Function Name            | What it does |
+| Function Name        | What it does |
 | - | - |
 | numpy.fft            | NumPy module to compute FFTs and associated frequency bins |
 | numpy.fft.rfft       | Compute the 1D Discrete Fourier Transform for real-valued signals (i.e. positive frequencies) |
@@ -52,7 +52,4 @@ We will be using one simple new function to interpolate and subsequently evaluat
 | scipy.signal.butter  | Generate filter coefficients for a Butterworth type filter |
 | scipy.signal.sosfilt | Apply some filter coefficients to a signal |
 | scipy.io.wavfile     | Module for handling audio files of .wav format |
-<!--  LocalWords:  
- -->
-<!--  LocalWords:  
- -->
+
