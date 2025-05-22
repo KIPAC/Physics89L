@@ -95,15 +95,14 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics89L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 
 
-<!--
-
-* Notes for Week 8: 
+* __Notes for Week 8__: 
   * Topics: Frequency analysis
   * [Class Slides](https://docs.google.com/presentation/d/1qtrlylFrjuZ-4gW7CGqLBHZMTaFwV9tr8LRbnJbtHls/edit?usp=drive_link)
   * [Background and reference](Week8.md)
   * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
   * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics89L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
+<!--
 
 * Final Projects:
   * [Class Slides](https://docs.google.com/presentation/d/1k2FrQduyliD4SHFxkTNZp1OavsTBbc2UtjZyiGl7kJE/edit?usp=drive_link)

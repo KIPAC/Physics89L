@@ -23,7 +23,7 @@ Now it isn't immediately obvious that any signal can be represented as a bunch o
 
 <img src="figures/fourier_series.png" width="500"/>
 
-We visualize the frequency composition of a signal using a mathematical object known as a Fourier transform, which converts an arbitrary time-based signal s(t) into an equivalent function of frequency s(f) that carries all the same information as the original function, but represents it in terms of a different variable. This technique is useful for a variety of different datasets, both for visualizing the distribution of frequencies and isolate and filter out noise that may obscure the features we care about. We will also extend these techniques to two dimensions so that we can reveal periodic structures in images that may be difficult to determine by eye. 
+We visualize the frequency composition of a signal using a mathematical object known as a Fourier transform, which converts an arbitrary time-based signal $s(t)$ into an equivalent function of frequency $s(f)$ that carries all the same information as the original function, but represents it in terms of a different variable. This technique is useful for a variety of different datasets, both for visualizing the distribution of frequencies and isolate and filter out noise that may obscure the features we care about. We will also extend these techniques to two dimensions so that we can reveal periodic structures in images that may be difficult to determine by eye. 
 
 
 ## Scientific context and resources
