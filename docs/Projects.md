@@ -57,7 +57,15 @@ Here is a description of the five template projects available:
 
 - This project will make use of Fourier techniques to calibrate the response of an optically levitated microsphere to external forces. This is accomplished by configuring the microsphere to have single excess electron and thus a net charge of $q = -e$, and then driving it with a known electric field and observing the response.
 
-- This project is reasonably straightforward from a conceptual standpoint, but will require you to think about the Fourier Transform and write some of your own functions and array manipulations
+- This project is reasonably straightforward from a conceptual standpoint, but will require you to think about the Fourier Transform and write some of your own functions and array manipulations  
+
+#### 6. Writing an Automated Peak-Fitting Algorithm
+
+- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_SDSS_Line_Fit_Algo.ipynb)
+
+- This project will involve returning to the SDSS spectral data and refining the regression of a spectral line fit. The ultimate goal is to develop an automated peak-finding and peak-fitting algorithm that can be "let loose" on spectral data with minimal supervision. First, one must demonstrate robust and unsupervised fitting of a single peak, followed by generalized fitting of many peaks.
+
+- This project involves an appreciable amount of coding of new functions and design of algorithms. Some amount of fluency with Python is assumed.
 
 
 ### Grading rubric

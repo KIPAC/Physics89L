@@ -1,4 +1,5 @@
 docs_after/
+nb/old/
 
 # OSX indexing files
 .DS_Store
