@@ -6,18 +6,18 @@ The final projects are intended to allow you to use concepts learned in the cour
 
 Some expectations:
 
-     * We expect you to work in small groups of 2-3 people.
+     * We expect you to work in small groups of 2-3 people (unless working on an independent topic).
      * The project should incorporate data analysis techniques that we have learned in the course.
      * Each person should complete a written report describing the project. Be sure to use your own words.
 
-Here is an [example of a report](https://docs.google.com/document/d/1MeSbCnUD5K59x8MxWHDlbD8NzsdJ8unAR3s6XQDBEiw/edit?usp=sharing). The report should be 2-3 pages and include any plots and numbers that you produced in the project. Please be sure to explain each plot and the purpose/context behind each step. Please describe the data you used as well. If you don't have a group, please contact on of the teaching staff as soon as possible.
+Here is an [example of a report](https://docs.google.com/document/d/1X4QYH8QKeheJirxuZ2r7pHWNBmFtWWT6prtepKB_Q8s/edit?usp=sharing). The report should be 2-3 pages and include any plots and numbers that you produced in the project. Please be sure to explain each plot and the purpose/context behind each step. Please describe the data you used as well. If you don't have a group, please contact one of the teaching staff as soon as possible.
 
 You are definitely encouraged to design your own project, but please speak to us (the teaching staff) about it at the beginning of class. It should be of similar length to the template projects to receive full credit. We estimate that the project should take 5-6 hours in total, including time to write the report.
 
 For each project, we have provided you with most of the necessary code in some form, which you will need to adapt. Some projects require more programming knowledge than others (explanations below). Please don't hesitate to ask us for assistance with the code or the concepts!
 
 ### Template projects
-Here is a description of the four template projects available:
+Here is a description of the five template projects available:
 
 #### 1. Quantifying the "Hubble Tension"
 
