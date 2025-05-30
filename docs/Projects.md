@@ -77,8 +77,8 @@ Here is a description of the five template projects available:
 
 | Grade | Criteria |
 | ----- | -------- |
-|   0   | Project was not turned in or is largely incomplete |
-|   1   | Project does not demonstrate thorough application of data analysis techniques learned in the course. Unclear or excessively brief explanations of figures, numbers, and/or statistical conclusions. Explanations may demonstrate a lack of understanding of the data analysis concepts. |
-|   2   | Project has clear objectives that incorporate data analysis techniques learned in the course. Report has detailed explanations of figures, numbers, and/or statistical conclusions. Student demonstrates that they understand most (>70%) of concepts covered in the project |
 |   3   | Project has clear objectives that incorporate data analysis techniques learned in the course. Report has detailed explanations of figures, numbers, and/or statistical conclusions. Student demonstrates clear understanding of concepts covered in the project |
+|   2   | Project has clear objectives that incorporate data analysis techniques learned in the course. Report has detailed explanations of figures, numbers, and/or statistical conclusions. Student demonstrates that they understand most (>70%) of concepts covered in the project |
+|   1   | Project does not demonstrate thorough application of data analysis techniques learned in the course. Unclear or excessively brief explanations of figures, numbers, and/or statistical conclusions. Explanations may demonstrate a lack of understanding of the data analysis concepts. |
+|   0   | Project was not turned in or is largely incomplete |
 
