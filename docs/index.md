@@ -35,7 +35,7 @@ the software tools that you will be using in the course.
   * [Software setup](setup.md)
   * [Social guidelines and expectations](social.md)
 
-The content for lab sections, including some introductory materials and 
+<!-- The content for lab sections, including some introductory materials and 
 lists of important new python functions that you might encounter, are 
 included below. Content is separated by week, with links to relevant slides, 
 as well as the notebooks that we will work with for a particular week.
@@ -105,7 +105,7 @@ as well as the notebooks that we will work with for a particular week.
 
 * __Final Projects__:
   * [Class Slides](https://docs.google.com/presentation/d/1k2FrQduyliD4SHFxkTNZp1OavsTBbc2UtjZyiGl7kJE/edit?usp=drive_link)
-  * [Overview](Projects.md) 
+  * [Overview](Projects.md)  -->
 
 
 
